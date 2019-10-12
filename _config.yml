@@ -28,4 +28,6 @@ search_tokenizer_separator: /[\s/]+/
 markdown: kramdown
 theme: just-the-docs
 plugins:
-# exclude: ['img']
+  - jekyll-seo-tag
+
+exclude: ['themes']
