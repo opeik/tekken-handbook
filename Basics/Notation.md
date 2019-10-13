@@ -81,16 +81,17 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 <div>
   <div class="icon-2"></div>
   <div class="icon-4"></div>
-  <span>denotes pressing 2 then 4. In text, this would be "2,4".</span>
+  <span>denotes pressing 2 then 4. In text, commas are used to indicate a button
+  sequence. The text version of this input is "2,4".</span>
 </div>
 
 ### Combination
 <div>
   <div class="icon-13"></div>
-  <span>denotes pressing 1 and 3 at the same time. In text, this would be "1+3".
-  This also applies to directions. For example, </span>
-  <div class="icon-f"></div> <div class="icon-4"></div>
-  <span>, or f+4, denotes pressing forward and 4 at the same time.</span>
+  <span>denotes pressing 1 and 3 at the same time. In text, a plus (+) is used
+  to indicate a direction, button, or stance combination. The text version of
+  this input is "1+3".
+  </span>
 </div>
 
 ### Slide
