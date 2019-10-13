@@ -109,7 +109,7 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 
 Stances will be explained in detail later, so don't worry for now.
 
-# Examples
+## Examples
 <table>
   <tr> <th>In-game</th> <th>Text</th> </tr>
   <tr>
