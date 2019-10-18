@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Techniques
-Let's take your skills to the next level.
+Take your skills to the next level
 {: .fs-6 .fw-300 }
 
 <img src="https://i.imgur.com/zVndeuB.jpg" alt="Kazuya Splash"
