@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/UQ4DFMq.png" alt="sdl2-logo" width="200"></a>
+  <img src="https://i.imgur.com/JnQauTs.png" alt="tekken-handbook-logo" width="800"></a>
   <br>
     Tekken Handbook
   <br>
