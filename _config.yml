@@ -30,4 +30,4 @@ theme: just-the-docs
 plugins:
   - jekyll-seo-tag
 
-exclude: ['themes']
+exclude: ['themes', 'README.md', 'LICENSE.md']
