@@ -6,5 +6,8 @@ has_children: true
 ---
 
 # Mechanics
-How the game works. You don't need to memorise these all at once!
+How the game works.
 {: .fs-6 .fw-300 }
+
+<img src="https://i.imgur.com/lBR57tl.jpg" alt="Raven Splash"
+ width="1920" height="640">

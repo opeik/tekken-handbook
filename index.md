@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <img class="float-right" src="https://i.imgur.com/nEQ1bVL.png" alt="Jin Splash"
-style="width: 250px"/>
+ width="250" height="273">
 
 # Learn Tekken 7
 Welcome to the Tekken Handbook, the guide Bandai Namco didn't want you to have.

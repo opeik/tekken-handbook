@@ -3,7 +3,6 @@ layout: default
 title: Notation
 parent: Basics
 nav_order: 2
-has_toc: true
 ---
 
 {: .no_toc }
@@ -81,14 +80,14 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 <div>
   <div class="icon-2"></div>
   <div class="icon-4"></div>
-  <span>denotes pressing 2 then 4. In text, commas are used to indicate a button
+  <span>denotes pressing 2 then 4. In text, commas are used to indicate a
   sequence. The text version of this input is "2,4".</span>
 </div>
 
 ### Combination
 <div>
   <div class="icon-13"></div>
-  <span>denotes pressing 1 and 3 at the same time. In text, a plus (+) is used
+  <span>denotes pressing 1 and 3 at the same time. In text, a plus is used
   to indicate a direction, button, or stance combination. The text version of
   this input is "1+3".
   </span>
@@ -97,15 +96,20 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 ### Slide
 <div>
   <div class="icon-bracketL"></div>
-  <div class="icon-4"></div>
-  <div class="icon-3"></div>
+  <div class="icon-2"></div>
+  <div class="icon-1"></div>
   <div class="icon-bracketR"></div>
-  <span>denotes pressing 4, then 3 in rapid succession. In text, this would be "4~3".</span>
+  <span>
+    denotes pressing 2, then 1 in rapid succession.
+    The text version of this input is "2~1".
+  </span>
 </div>
 
 ## Stances
 * While Standing: "WS"
 * While Running: "WR"
+* Crouch Dash: "CD"
+* Full Crouch: "FC"
 
 Stances will be explained in detail later, so don't worry for now.
 
@@ -126,14 +130,14 @@ Stances will be explained in detail later, so don't worry for now.
       <div class="icon-2"></div> <div class="icon-1"></div>
       <div class="icon-2"></div>
     </td>
-    <td>bf+2,1,2</td>
+    <td>b,f+2,1,2</td>
   </tr>
   <tr>
     <td>
       <div class="icon-f"></div> <div class="icon-fh"></div>
       <div class="icon-3"></div>
     </td>
-    <td>fF+3</td>
+    <td>f,F+3</td>
   </tr>
   <tr>
     <td>

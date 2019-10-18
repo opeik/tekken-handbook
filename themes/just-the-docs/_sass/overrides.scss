@@ -10,6 +10,11 @@
     float: right;
 }
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 @media only screen and (max-width: 786px) {
     .float-left {
         float: none;
@@ -36,12 +41,12 @@
 
 %icon-arrow {
     @extend %icon;
-    width: 30px;
+    width: 25px;
 }
 
 %icon-button {
     @extend %icon;
-    width: 30px;
+    width: 25px;
 }
 
 div.icon-0 {
@@ -128,14 +133,14 @@ div.icon-4 {
 div.icon-bracketL {
     @extend %icon-button;
     width: auto;
-    height: 40px;
+    height: 35px;
     content:url('/assets/img/arrow/bracketL.svg');
 }
 
 div.icon-bracketR {
     @extend %icon-button;
     width: auto;
-    height: 40px;
+    height: 35px;
     content:url('/assets/img/arrow/bracketR.svg');
 }
 
@@ -259,3 +264,4 @@ table tr th {
     display: block;
     text-align: center;
 }
+
