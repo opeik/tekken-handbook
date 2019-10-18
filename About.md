@@ -18,8 +18,8 @@ nav_order: 6
 ## Other Resources
 * [Core-A-Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg) —
     FGC videos
-* [Avoiding The Puddle](https://www.youtube.com/watch?v=XpPN_HpotgI&list=PLMCyLSAjLlQ0YEDmZ-Esbnzd4gcstVOC5) —
-    Aris' Tekken Tutorials
+* [Avoiding The Puddle](https://www.youtube.com/playlist?list=PLMCyLSAjLlQ0YEDmZ-Esbnzd4gcstVOC5) —
+    Aris' Tekken tutorials
 * [That Blasted Salami](https://www.youtube.com/channel/UC5GTc4yWm-yiBFTuV3MsGaQ) —
     Tekken tutorial videos
 * [DamageXcaling](https://www.youtube.com/channel/UC1UQHt5x96jXXeNtCT9Lz_A) —
