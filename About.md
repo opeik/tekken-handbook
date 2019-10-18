@@ -6,7 +6,7 @@ nav_order: 6
 
 # About
 
-<img src="https://i.imgur.com/CgZzZwI.jpg" alt="Asuka Splash"
+<img src="https://i.imgur.com/TyAdbOW.jpg" alt="Asuka Splash"
  width="1920" height="640">
 
 * Website developed by [opeik](https://twitter.com/iamopeik)
