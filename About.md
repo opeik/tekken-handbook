@@ -10,7 +10,7 @@ nav_order: 6
  width="1920" height="640">
 
 * Check out my [YouTube channel](https://www.youtube.com/c/opeik)
-* Splash images by the talented [Nick Valencia](https://twitter.com/NickVal33181359)
+* Splash art by the talented [Nick Valencia](https://twitter.com/NickVal33181359)
 
 ## Source Code
 * Available on [GitHub](https://github.com/opeik/tekken-handbook)

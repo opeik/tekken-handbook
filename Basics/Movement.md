@@ -20,42 +20,72 @@ make attacks miss entirely, and offensive movement can be used to force the
 opponent into a dangerous mixup situation. Incorporating movement into your
 strategies is vital.
 
-## Basic movement
-### Dashing
+## Dashing
+Like most fighting games, to win a round, you need to deplete the
+opponent's life gauge by dealing damage. You can't just run at the opponent
+though since you're not able to guard while moving forwards. The opponents
+long range moves will clip you before you can close in.
 
-<div>
-  <span>
-  Similar to other fighting games, you can dash to quickly create or close space
-  between you and your opponent. Assuming you're facing right,
-  </span>
-  <div class="icon-b"></div>
-  <div class="icon-b"></div>
-  <span>
-  will perform a backdash and
-  </span>
-  <div class="icon-f"></div>
-  <div class="icon-f"></div>
-  <span>
-  will perform a forward dash. If you're being pressured by your opponent, a
-  well placed backdash can cause their attacks to miss (also known as whiffing),
-  granting you a chance to counter attack.
-  </span>
-</div>
+{% include video.html url="MagnificentEnchantingCutworm.mp4" class="float-right float-figure"
+description="Despite Kazuya's jabs moving him forward, back dashing causes them to whiff" %}
 
-## Sidestepping
+So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
+into attacking, then step out immediately. If executed properly, the opponent's
+attack will miss, which is known as whiffing. Whiffing in Tekken is extremely
+dangerous since you cannot block until the recovery animation ends.
+Attacking your opponent after they whiff while they cannot block is
+called a "whiff punish".
 
-<div>
-  <span>
+Dashing allows you to create or close space between you and your opponent very
+quickly. To back dash, input
+<img class="icon" src="/assets/img/b.svg">
+<img class="icon" src="/assets/img/bh.svg">
+, and to forward dash, input
+<img class="icon" src="/assets/img/f.svg">
+<img class="icon" src="/assets/img/f.svg">
+. By holding the
+<img class="icon" src="/assets/img/bh.svg">
+,  you will block while back dashing.
+Since back dashing allows you to make your opponents moves whiff, and you're
+blocking at the same time, it negates several of your opponent's offensive
+options at once.
 
-  </span>
-  <div class="icon-b"></div>
-  <div class="icon-b"></div>
-  <span>
-  will perform a backdash and
-  </span>
-  <div class="icon-f"></div>
-  <div class="icon-f"></div>
-  <span>
-  will perform a forward dash.
-  </span>
-</div>
+## Side stepping
+Your opponent may have specific attacks which you can't make whiff by back
+dashing. For example, moves with exceptionally long range, or lows,
+which ignore standing guard. The answer to defeating these attacks is side
+stepping.
+
+Every attack in Tekken tracks a certain amount, from
+none to homing, which will track approximately 180° in front of you.
+The more an attack tracks, the better chance it has to hit if your opponent is side
+stepping. Typically in Tekken, if back dashing is not effective,
+side step instead since these attacks usually have poor tracking.
+To sidep step, input
+<img class="icon" src="/assets/img/u.svg">
+or
+<img class="icon" src="/assets/img/d.svg">
+to move into the background and foreground, respectively.
+You may also hear this referred to as side step left, or side step right.
+Left and right are relative to your character, for example:
+if you're facing right, side step left would be into the background.
+
+{% include video.html url="SpottedQuarterlyColt.mp4" class="float-left float-figure"
+description="Back dashing is dangerous against powerful lows such as the
+hellsweep; however, it is vulnerable to side walk left" %}
+
+Unlike back dashing, you are unable to block during a side step.
+This vulnerability is an apparent distinction to make. Side stepping carries
+far more risk than back dashing but has a higher chance to cause an attack
+to whiff since you're moving laterally. Despite not being able to block,
+you're not as vulnerable as it appears. A surprising amount of attacks have
+little tracking. A short side step cancelled into blocking allows you to
+make attacks whiff while being relatively low risk.
+
+The direction that you're stepping matters. Stepping attacks at random will more
+than likely cause you to get hit. Attacks in Tekken typically track well in one
+direction, but poorly to the other. Generally speaking, you want to step
+the direction the attack is going. For example: if the opponent attacks with a
+right punch, and it moves towards your right, you want to side step right.
+There are exceptions to every rule. In this case, the Electric Wind God Fist
+requires you to step into the attack to make it whiff.

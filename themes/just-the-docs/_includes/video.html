@@ -1,7 +1,6 @@
-<figure class="video">
-  <video width="{{ include.width }}" height="{{ include.height }}"
-    muted autoplay loop playsinline>
+<figure class="{{ include.class }}">
+  <video class="video-figure" muted autoplay loop playsinline>
     <source src="https://giant.gfycat.com/{{ include.url }}">
   </video>
-  <p class="caption">{{ include.description }}</p>
+  <figcaption class="fs-3">{{ include.description }}</figcaption>
 </figure>

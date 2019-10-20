@@ -9,7 +9,6 @@ nav_order: 1
 The guide Harada didn't want you to have
 {: .fs-6 .fw-300 }
 
-
 <img src="https://i.imgur.com/6npK200.jpg" alt="Julia Splash"
  width="1920" height="640">
 

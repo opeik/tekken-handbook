@@ -1,13 +1,11 @@
-//
-// Custom overrides from a user.
-//
-
 .float-left {
     float: left;
+    padding: 0 1em 0em 0;
 }
 
 .float-right {
     float: right;
+    padding: 0 0 0em 1em;
 }
 
 img.center {
@@ -15,217 +13,18 @@ img.center {
     margin: 0 auto;
 }
 
-@media only screen and (max-width: 786px) {
-    .float-left {
-        float: none;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .float-right {
-        float: none;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
-%icon {
+.icon {
     margin: 0px;
     padding: 0px;
     border: 0px;
     vertical-align: middle;
-    display: inline;
-}
-
-%icon-arrow {
-    @extend %icon;
     width: 25px;
 }
 
-%icon-button {
-    @extend %icon;
-    width: 25px;
-}
-
-div.icon-0 {
-    @extend %icon-button;
-    content:url('/assets/img/button/0.svg');
-}
-
-div.icon-1 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1.svg');
-}
-
-div.icon-12 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+2.svg');
-}
-
-div.icon-123 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+2+3.svg');
-}
-
-div.icon-1234 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+2+3+4.svg');
-}
-
-div.icon-124 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+2+4.svg');
-}
-
-div.icon-13 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+3.svg');
-}
-
-div.icon-134 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+3+4.svg');
-}
-
-div.icon-14 {
-    @extend %icon-button;
-    content:url('/assets/img/button/1+4.svg');
-}
-
-div.icon-2 {
-    @extend %icon-button;
-    content:url('/assets/img/button/2.svg');
-}
-
-div.icon-23 {
-    @extend %icon-button;
-    content:url('/assets/img/button/2+3.svg');
-}
-
-div.icon-234 {
-    @extend %icon-button;
-    content:url('/assets/img/button/2+3+4.svg');
-}
-
-div.icon-24 {
-    @extend %icon-button;
-    content:url('/assets/img/button/2+4.svg');
-}
-
-div.icon-3 {
-    @extend %icon-button;
-    content:url('/assets/img/button/3.svg');
-}
-
-div.icon-34 {
-    @extend %icon-button;
-    content:url('/assets/img/button/3+4.svg');
-}
-
-div.icon-4 {
-    @extend %icon-button;
-    content:url('/assets/img/button/4.svg');
-}
-
-
-div.icon-bracketL {
-    @extend %icon-button;
+.bracket {
+    @extend .icon;
     width: auto;
     height: 35px;
-    content:url('/assets/img/arrow/bracketL.svg');
-}
-
-div.icon-bracketR {
-    @extend %icon-button;
-    width: auto;
-    height: 35px;
-    content:url('/assets/img/arrow/bracketR.svg');
-}
-
-div.icon-b {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/b.svg');
-}
-
-div.icon-bh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/bh.svg');
-}
-div.icon-d {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/d.svg');
-}
-
-div.icon-db {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/db.svg');
-}
-
-div.icon-dbh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/dbh.svg');
-}
-
-div.icon-df {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/df.svg');
-}
-
-div.icon-dfh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/dfh.svg');
-}
-
-div.icon-dh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/dh.svg');
-}
-
-div.icon-f {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/f.svg');
-}
-
-div.icon-fh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/fh.svg');
-}
-
-div.icon-n {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/n.svg');
-}
-
-div.icon-u {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/u.svg');
-}
-
-div.icon-ub {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/ub.svg');
-}
-
-div.icon-ubh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/ubh.svg');
-}
-
-div.icon-uf {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/uf.svg');
-}
-
-div.icon-ufh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/ufh.svg');
-}
-
-div.icon-uh {
-    @extend %icon-arrow;
-    content:url('/assets/img/arrow/uh.svg');
 }
 
 .compact-table {
@@ -250,18 +49,39 @@ div.icon-uh {
     vertical-align: middle;
 }
 
-video {
-  max-width: 100%;
-  width: 100%;
-}
-
 table tr th {
   text-align: left;
 }
 
-.caption {
+figcaption {
     font-style: italic;
     display: block;
     text-align: center;
 }
 
+.float-figure {
+    width: 360px;
+}
+
+.video-figure {
+    width: 100%;
+}
+
+@media only screen and (max-width: 786px) {
+    .float-left {
+        float: none;
+        display: block;
+        padding: initial;
+    }
+
+    .float-right {
+        float: none;
+        display: block;
+        padding: initial;
+    }
+
+    .float-figure {
+        width: 100%;
+        padding: 1em 0 1em 0;
+    }
+}

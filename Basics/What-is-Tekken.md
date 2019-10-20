@@ -17,5 +17,4 @@ that Tekken is so fun to play and watch. Tekken also includes various intricate
 mechanics, including walls, which can wildly change your approach to match-ups.
 
 {% include video.html url="MarvelousOptimisticDinosaur.mp4"
-description="JDCR and Knee showcasing high level Tekken movement"
-width="1280" %}
+description="JDCR and Knee showcasing high level Tekken movement" %}
