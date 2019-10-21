@@ -76,7 +76,7 @@ if you're facing right, sidestep left would be into the background.
 
 {% include video.html url="SpottedQuarterlyColt.mp4" class="float-left float-figure"
 description="Back dashing is dangerous against powerful lows such as the
-hellsweep; however, it is vulnerable to sidewalk left" %}
+Hellsweep; however, it is vulnerable to sidewalk left" %}
 
 ### Caveats
 Unlike back dashing, you are unable to block during a sidestep.
@@ -132,3 +132,43 @@ Sidestep
 <img class="icon" src="/assets/img/uh.svg"> or
 <img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
 into a sidewalk. The sidewalk can occur at any time during a sidestep.
+
+## Crouching
+To crouch, hold <img class="icon" src="/assets/img/dh.svg">. While you're
+crouching, high attacks can't hit you. This property is called "high crushing".
+However, you can't block mids while crouching.
+Mid attacks generally deal a lot of damage or will launch you for a combo for
+even more damage. Since you can't block mids while crouching, it's dangerous to
+randomly duck. Similarly to back dashing and sidestepping, you must duck with intent.
+Either you suspect a powerful high is coming or knowing there is a high attack
+in a string.
+
+## Forward Dashing
+To forward dash, input
+<img class="icon" src="/assets/img/f.svg">
+<img class="icon" src="/assets/img/f.svg">
+. Forward dashing lets you quickly close in space between you and your opponent.
+You cannot block while forward dashing, but you can cancel it into other
+movement which can, such as a back dash.
+
+## Running
+To run, input
+<img class="icon" src="/assets/img/f.svg">
+<img class="icon" src="/assets/img/fh.svg">
+. Running lets you close space faster than forward dashing.
+There is a distance requirement to run, unlike forward dashing, so you cannot
+run while right next to your opponent. There are attacks which you can do from
+running which will be covered later.
+
+## Jumping
+Unless you're playing Akuma or Geese, don't jump. Since Tekken 3, the
+anti-gravity moon jump has been toned down to a stumpy hop which is more or less
+useless (outside of certain okizeme situations).
+You cannot block while jumping, and your opponent can hit you out of
+the air for a combo, which is known as a "float" combo. To jump, hold
+<img class="icon" src="/assets/img/uh.svg">
+. You can also hold
+<img class="icon" src="/assets/img/ubh.svg">
+or
+<img class="icon" src="/assets/img/ufh.svg">
+to jump backwards and forwards, respectively.
