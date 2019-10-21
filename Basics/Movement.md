@@ -20,10 +20,15 @@ make attacks miss entirely, and offensive movement can be used to force the
 opponent into a dangerous mixup situation. Incorporating movement into your
 strategies is vital.
 
+Unlike other fighting games, Tekken allows you to **instantly cancel movement
+into other movement**, meaning there is little commitment to moving. At any point you
+can cancel a sidestep or forward dash into blocking, or immediately retreat by
+cancelling it into a back dash.
+
 ## Dashing
 Like most fighting games, to win a round, you need to deplete the
 opponent's life gauge by dealing damage. You can't just run at the opponent
-though since you're not able to guard while moving forwards. The opponents
+though since you're not able to guard while moving forwards. The opponent's
 long range moves will clip you before you can close in.
 
 {% include video.html url="MagnificentEnchantingCutworm.mp4" class="float-right float-figure"
@@ -46,7 +51,7 @@ quickly. To back dash, input
 . By holding the
 <img class="icon" src="/assets/img/bh.svg">
 ,  you will block while back dashing.
-Since back dashing allows you to make your opponents moves whiff, and you're
+Since back dashing allows you to make your opponent's moves whiff, and you're
 blocking at the same time, it negates several of your opponent's offensive
 options at once.
 
@@ -82,10 +87,25 @@ you're not as vulnerable as it appears. A surprising amount of attacks have
 little tracking. A short side step cancelled into blocking allows you to
 make attacks whiff while being relatively low risk.
 
+Generally speaking, you want to step "with" an attack; meaning you step the
+the direction the attack is going.
+For example: if the opponent's attack moves towards your right, you should side step right.
+There are exceptions to every rule in Tekken though: the Electric Wind God Fist,
+which is one of Kazuya's key moves, requires you to step into the attack to make
+it whiff.
+
 The direction that you're stepping matters. Stepping attacks at random will more
 than likely cause you to get hit. Attacks in Tekken typically track well in one
-direction, but poorly to the other. Generally speaking, you want to step
-the direction the attack is going. For example: if the opponent attacks with a
-right punch, and it moves towards your right, you want to side step right.
-There are exceptions to every rule. In this case, the Electric Wind God Fist
-requires you to step into the attack to make it whiff.
+direction, but poorly to the other. Furthermore, characters generally have one
+side that a majority of their key attacks track poorly to. You can make
+a majority of your opponent's offensive options whiff by stepping to their weak
+side.
+
+Stepping to your opponent's weak side forces them to use homing attacks, which track
+extremely well to both directions.
+As you can probably guess, homing attacks also have a caveat. If they're fast,
+they're typically high. If they're mid, they're generally slow or are punishable on block.
+High attacks can be ducked and punished. You can defeat slow, mid homing attacks by
+a short sidestep cancelled into blocking. Fast mid homing
+attacks will shut down stepping very effectively.
+If you suspect one is coming, and block it, you can block punish it.
