@@ -17,14 +17,15 @@ img.center {
     margin: 0px;
     padding: 0px;
     border: 0px;
-    vertical-align: middle;
-    width: 25px;
+    vertical-align: top;
+    width: 1.5em;
 }
 
 .bracket {
     @extend .icon;
     width: auto;
-    height: 35px;
+    vertical-align: top;
+    height: 1.5em;
 }
 
 .compact-table {
