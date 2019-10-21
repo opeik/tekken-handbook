@@ -115,12 +115,17 @@ pad or hitbox, release all the directional buttons.
 
 ## Modifiers
 ### Sequence
-<p>
-  <img class="icon" src="/assets/img/2.svg">
-  <img class="icon" src="/assets/img/4.svg">
-  denotes pressing 2 then 4. In text, commas are used to indicate a
-  sequence. The text version of this input is "2,4".
-</p>
+<img class="icon" src="/assets/img/2.svg">
+<img class="icon" src="/assets/img/4.svg">
+denotes pressing 2 then 4. In text, commas are used to indicate a
+sequence. The text version of this input is "2,4".
+
+A combo is a sequence of several attacks. In order to differentiate
+between where one attack ends, and another begins, we need some kind of symbol.
+The in-game symbol is
+ <img class="icon" src="/assets/img/then.svg">.
+Unfortunately there isn't an agreed upon standard for text. Personally, I use
+">" since it resembles the in-game symbol.
 
 ### Combination
 <img class="icon" src="/assets/img/1+3.svg">
@@ -129,10 +134,10 @@ to indicate a direction, button, or stance combination. The text version of
 this input is "1+3".
 
 ### Slide
-<img class="bracket" src="/assets/img/bracketL.svg">
+<img class="icon" src="/assets/img/bracketL.svg">
 <img class="icon" src="/assets/img/2.svg">
 <img class="icon" src="/assets/img/1.svg">
-<img class="bracket" src="/assets/img/bracketR.svg">
+<img class="icon" src="/assets/img/bracketR.svg">
 denotes pressing 2, then 1 in rapid succession.
 The text version of this input is "2~1".
 
@@ -192,12 +197,25 @@ Stances will be explained in detail later, so don't worry for now.
   </tr>
   <tr>
     <td>
-      <img class="bracket" src="/assets/img/bracketL.svg">
+      <img class="icon" src="/assets/img/bracketL.svg">
       <img class="icon" src="/assets/img/4.svg">
       <img class="icon" src="/assets/img/3.svg">
-      <img class="bracket" src="/assets/img/bracketR.svg">
+      <img class="icon" src="/assets/img/bracketR.svg">
     </td>
     <td>4~3</td>
+  </tr>
+  <tr>
+    <td>
+      <img class="icon" src="/assets/img/uf.svg">
+      <img class="icon" src="/assets/img/4.svg">
+      <img class="icon" src="/assets/img/then.svg">
+      <img class="icon" src="/assets/img/2.svg">
+      <img class="icon" src="/assets/img/then.svg">
+      <img class="icon" src="/assets/img/db.svg">
+      <img class="icon" src="/assets/img/2.svg">
+      <img class="icon" src="/assets/img/3.svg">
+    </td>
+    <td>u/f+4 > 2 > d/b+2,3</td>
   </tr>
   <tr>
     <td>

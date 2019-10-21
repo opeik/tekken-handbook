@@ -33,7 +33,7 @@ though since you're not able to guard while moving forwards. The opponent's
 long range attacks will clip you before you can close in.
 
 {% include video.html url="MagnificentEnchantingCutworm.mp4" class="float-right float-figure"
-description="Despite Kazuya's jabs moving him forward, back dashing causes them to whiff" %}
+description="Despite Kazuya's jabs moving him forward, Korean Back Dashing causes them to whiff" %}
 
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
 into attacking, then step out immediately. If executed properly, the opponent's
@@ -50,6 +50,28 @@ By holding the <img class="icon" src="/assets/img/bh.svg">, you will block while
 Since back dashing allows you to make your opponent's attacks whiff, and you're
 blocking at the same time, it negates several of your opponent's offensive
 options at once.
+
+### Korean Back Dashing
+While you can cancel movement into movement, you can't cancel a back dash into
+another back dash. The technique to work around this limitation is known as
+the "Korean Back Dash" or "Back Dash Cancel".
+While you can't cancel a back dash into itself, you can duck instead.
+Because of this property, you can back dash, duck, then back dash
+again.
+
+To Korean Back Dash, input:
+<img class="icon" src="/assets/img/b.svg">
+<img class="icon" src="/assets/img/bh.svg">
+<img class="icon" src="/assets/img/db.svg">
+<img class="icon" src="/assets/img/then.svg">
+<img class="icon" src="/assets/img/b.svg">
+<img class="icon" src="/assets/img/bh.svg">
+<img class="icon" src="/assets/img/db.svg">
+<img class="icon" src="/assets/img/then.svg"> and so on.
+
+**Korean Back Dashing is an essential technique** since it allows you to make far
+more space than a single back dash. A good target is three back dashes in a row,
+so get practising.
 
 ## Sidestepping
 Your opponent may have specific attacks which you can't make whiff by back
@@ -133,14 +155,14 @@ Sidestep
 <img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
 into a sidewalk. The sidewalk can occur at any time during a sidestep.
 
-## Crouching
-To crouch, hold <img class="icon" src="/assets/img/dh.svg">. While you're
-crouching, high attacks can't hit you. This property is called "high crushing".
-However, you can't block mids while crouching.
+## Ducking
+To duck, hold <img class="icon" src="/assets/img/dh.svg">. While you're
+ducking, high attacks can't hit you. This property is called "high crushing".
+However, you can't block mids while ducking.
 Mid attacks generally deal a lot of damage or will launch you for a combo for
-even more damage. Since you can't block mids while crouching, it's dangerous to
+even more damage. Since you can't block mids while ducking, it's dangerous to
 randomly duck. Similarly to back dashing and sidestepping, you must duck with intent.
-Either you suspect a powerful high is coming or knowing there is a high attack
+Either you suspect a powerful high is coming or you know there is a high attack
 in a string.
 
 ## Forward Dashing
