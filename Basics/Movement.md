@@ -162,8 +162,8 @@ into a sidewalk. The sidewalk can occur at any time during a sidestep.
 
 ## Duck
 
-{% include video.html url="ZestyGrotesqueHectorsdolphin" class="float-right float-figure"
-description="You cannot be hit by high attacks while ducking" %}
+{% include video.html url="SilentHorribleGordonsetter" class="float-right float-figure"
+description="While ducking, you crush highs, block lows, but are vulnerable to mids" %}
 
 To duck, hold <img class="icon" src="/assets/img/dbh.svg">. While you're
 ducking, high attacks can't hit you. This property is called "high crushing".
@@ -179,7 +179,9 @@ To forward dash, input
 <img class="icon" src="/assets/img/f.svg">
 <img class="icon" src="/assets/img/f.svg">
 . Forward dashing lets you quickly close in space between you and your opponent.
-You cannot block while forward dashing.
+Whenever you forward dash, you realign with your opponent. When you realign,
+your character will immediately turn to face the opponent. Realigning can be
+helpful if your opponent is aggressively sidestepping. You cannot block while forward dashing.
 
 ## Crouch Dash
 To crouch dash, input
@@ -187,10 +189,11 @@ To crouch dash, input
 <img class="icon" src="/assets/img/n.svg">
 <img class="icon" src="/assets/img/d.svg">
 <img class="icon" src="/assets/img/df.svg">.
-Similarly to forward dashing, crouch dashing lets you quickly approach your opponent.
-Unlike forward dashing, you can perform character-specific crouch dash attacks
-by pressing a button while crouch dashing. Mishima's have access to the Hellsweep
-and Electric Wind God Fist from a crouch dash. You cannot block while crouch dashing.
+Similarly to forward dashing, crouch dashing lets you quickly approach your opponent,
+and will realign. Unlike forward dashing, you can perform character-specific crouch dash attacks
+by pressing a button while crouch dashing. Mishima's, for example, have access
+to the powerful Hellsweep and Electric Wind God Fist from a crouch dash.
+You cannot block while crouch dashing.
 
 ## Run
 To run, input
