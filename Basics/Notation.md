@@ -7,6 +7,9 @@ nav_order: 2
 
 {: .no_toc }
 # Notation
+The Tekken community in the West uses a unique notation to denote inputs
+concisely over text. Practically all information regarding Tekken will be in
+this notation. For your convenience, inputs in this handbook will use the in-game notation.
 
 {: .no_toc }
 ## Table of contents
@@ -14,10 +17,6 @@ nav_order: 2
 
 1. TOC
 {:toc}
-
-The Tekken community in the West uses a unique notation to denote inputs
-concisely over text. Practically all information regarding Tekken will be in
-this notation. For your convenience, inputs in this handbook will use the in-game notation.
 
 ## Directions
 
@@ -189,11 +188,9 @@ Stances will be explained in detail later, so don't worry for now.
     <td>
       <img class="icon" src="/assets/img/f.svg">
       <img class="icon" src="/assets/img/n.svg">
-      <img class="icon" src="/assets/img/d.svg">
-      <img class="icon" src="/assets/img/df.svg">
-      <img class="icon" src="/assets/img/2.svg">
+      <img class="icon" src="/assets/img/1+2.svg">
     </td>
-    <td>f,n,d,d/f+2</td>
+    <td>f,n,1+2</td>
   </tr>
   <tr>
     <td>

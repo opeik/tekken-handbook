@@ -7,6 +7,14 @@ nav_order: 3
 
 {: .no_toc }
 # Movement
+At its core, Tekken is a game about movement. Defensive movement allows you to
+make attacks miss entirely, and offensive movement can be used to force the
+opponent into a dangerous mixup situation. Incorporating movement into your
+strategies is vital.
+
+Unlike other fighting games, Tekken allows you to instantly cancel movement
+into other movement, meaning there is little commitment to moving. At any point you
+can cancel a forward dash into a sidestep, or retreat by cancelling into a back dash.
 
 {: .no_toc }
 ## Table of contents
@@ -15,24 +23,14 @@ nav_order: 3
 1. TOC
 {:toc}
 
-At its core, Tekken is a game about movement. Defensive movement allows you to
-make attacks miss entirely, and offensive movement can be used to force the
-opponent into a dangerous mixup situation. Incorporating movement into your
-strategies is vital.
-
-Unlike other fighting games, Tekken allows you to **instantly cancel movement
-into other movement**, meaning there is little commitment to moving. At any point you
-can cancel a sidestep or forward dash into blocking, or immediately retreat by
-cancelling into a back dash.
-
-## Back Dashing
+## Back Dash
 ### Creating Space
 Like most fighting games, to win a round, you need to deplete the
 opponent's life gauge by dealing damage. You can't just run at the opponent
 though since you're not able to guard while moving forwards. The opponent's
 long range attacks will clip you before you can close in.
 
-{% include video.html url="MagnificentEnchantingCutworm.mp4" class="float-right float-figure"
+{% include video.html url="UnhealthyChiefCobra" class="float-right float-figure"
 description="Despite Kazuya's jabs moving him forward, Korean Back Dashing causes them to whiff" %}
 
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
@@ -51,7 +49,7 @@ Since back dashing allows you to make your opponent's attacks whiff, and you're
 blocking at the same time, it negates several of your opponent's offensive
 options at once.
 
-### Korean Back Dashing
+### Korean Back Dash
 While you can cancel movement into movement, you can't cancel a back dash into
 another back dash. The technique to work around this limitation is known as
 the "Korean Back Dash" or "Back Dash Cancel".
@@ -63,17 +61,18 @@ To Korean Back Dash, input:
 <img class="icon" src="/assets/img/b.svg">
 <img class="icon" src="/assets/img/bh.svg">
 <img class="icon" src="/assets/img/db.svg">
+<img class="icon" src="/assets/img/n.svg">
 <img class="icon" src="/assets/img/then.svg">
 <img class="icon" src="/assets/img/b.svg">
 <img class="icon" src="/assets/img/bh.svg">
 <img class="icon" src="/assets/img/db.svg">
-<img class="icon" src="/assets/img/then.svg"> and so on.
-
-**Korean Back Dashing is an essential technique** since it allows you to make far
+<img class="icon" src="/assets/img/n.svg">
+<img class="icon" src="/assets/img/then.svg"> and so on. Korean Back Dashing is
+an essential technique since it allows you to create far
 more space than a single back dash. A good target is three back dashes in a row,
 so get practising.
 
-## Sidestepping
+## Sidestep
 Your opponent may have specific attacks which you can't make whiff by back
 dashing. For example, attacks with exceptionally long range, or lows,
 which ignore standing guard. The answer to defeating these attacks is side
@@ -96,7 +95,7 @@ You may also hear this referred to as sidestep left, or sidestep right.
 Left and right are relative to your character, for example:
 if you're facing right, sidestep left would be into the background.
 
-{% include video.html url="SpottedQuarterlyColt.mp4" class="float-left float-figure"
+{% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
 description="Back dashing is dangerous against powerful lows such as the
 Hellsweep; however, it is vulnerable to sidewalk left" %}
 
@@ -124,7 +123,11 @@ side that a majority of their key attacks track poorly to. You can make
 a majority of your opponent's offensive options whiff by stepping to their weak
 side.
 
-### The Sidestep Mindgame
+{% include video.html url="KindlyBestGourami" class="float-right float-figure"
+description="Stepping into an attack will cause you to get hit, whereas stepping with
+the attack will make it whiff" %}
+
+### Mindgames
 Stepping to your opponent's weak side forces them to use homing attacks, which track
 extremely well to both directions.
 As you can probably guess, homing attacks also have a caveat. If they're fast,
@@ -139,7 +142,7 @@ These mechanics create an elaborate mind game where both you and your opponent
 are trying to make attacks whiff, as well as trying to stop the other from
 moving to prevent your attacks from whiffing.
 
-### Sidewalking
+### Sidewalk
 Certain attacks, while steppable, require you to sidewalk instead of sidestep to
 make them whiff. Sidewalking moves you further laterally than sidestepping.
 To sidewalk, input
@@ -155,35 +158,48 @@ Sidestep
 <img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
 into a sidewalk. The sidewalk can occur at any time during a sidestep.
 
-## Ducking
-To duck, hold <img class="icon" src="/assets/img/dh.svg">. While you're
+{% include video.html url="ZestyGrotesqueHectorsdolphin" class="float-right float-figure"
+description="You cannot be hit by high attacks while ducking" %}
+
+## Duck
+To duck, hold <img class="icon" src="/assets/img/dbh.svg">. While you're
 ducking, high attacks can't hit you. This property is called "high crushing".
-However, you can't block mids while ducking.
-Mid attacks generally deal a lot of damage or will launch you for a combo for
-even more damage. Since you can't block mids while ducking, it's dangerous to
+You will also block lows, but can't block mids.
+Mid attacks generally deal a lot of damage
+and since you can't block mids while ducking, it's dangerous to
 randomly duck. Similarly to back dashing and sidestepping, you must duck with intent.
 Either you suspect a powerful high is coming or you know there is a high attack
 in a string.
 
-## Forward Dashing
+## Forward Dash
 To forward dash, input
 <img class="icon" src="/assets/img/f.svg">
 <img class="icon" src="/assets/img/f.svg">
 . Forward dashing lets you quickly close in space between you and your opponent.
-You cannot block while forward dashing, but you can cancel it into other
-movement which can, such as a back dash.
+You cannot block while forward dashing.
 
-## Running
+## Crouch Dash
+To crouch dash, input
+<img class="icon" src="/assets/img/f.svg">
+<img class="icon" src="/assets/img/n.svg">
+<img class="icon" src="/assets/img/d.svg">
+<img class="icon" src="/assets/img/df.svg">.
+Similarly to forward dashing, crouch dashing lets you quickly approach your opponent.
+Unlike forward dashing, you can perform character-specific crouch dash attacks
+by pressing a button while crouch dashing. Mishima's have access to the Hellsweep
+and Electric Wind God Fist from a crouch dash. You cannot block while crouch dashing.
+
+## Run
 To run, input
 <img class="icon" src="/assets/img/f.svg">
 <img class="icon" src="/assets/img/fh.svg">
-. Running lets you close space faster than forward dashing.
-There is a distance requirement to run, unlike forward dashing, so you cannot
+. Running lets you close space faster than forward dashing. You cannot block
+while running. There is a distance requirement to run, unlike forward dashing, so you cannot
 run while right next to your opponent. There are attacks which you can do from
 running which will be covered later.
 
-## Jumping
-Unless you're playing Akuma or Geese, don't jump. Since Tekken 3, the
+## Jump
+Unless you're playing Akuma, Geese or Eliza, don't jump. Since Tekken 3, the
 anti-gravity moon jump has been toned down to a stumpy hop which is more or less
 useless (outside of certain okizeme situations).
 You cannot block while jumping, and your opponent can hit you out of

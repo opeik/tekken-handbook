@@ -16,5 +16,5 @@ focus on complex ground movement instead. This movement is one of the reasons
 that Tekken is so fun to play and watch. Tekken also includes various intricate
 mechanics, including walls, which can wildly change your approach to match-ups.
 
-{% include video.html url="MarvelousOptimisticDinosaur.mp4"
+{% include video.html url="MarvelousOptimisticDinosaur"
 description="JDCR and Knee showcasing high level Tekken movement" %}

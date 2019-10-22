@@ -7,62 +7,71 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
-   sodipodi:docname="n.svg"
-   xml:space="preserve"
-   style="enable-background:new 0 0 800 800;"
-   viewBox="0 0 800 800"
-   y="0px"
-   x="0px"
+   version="1.1"
    id="Layer_1"
-   version="1.1"><metadata
+   x="0px"
+   y="0px"
+   viewBox="0 0 800 800"
+   style="enable-background:new 0 0 800 800;"
+   xml:space="preserve"
+   sodipodi:docname="n.svg"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"><metadata
    id="metadata3983">
   <rdf:RDF>
     <cc:Work
-       rdf:about="">
+   rdf:about="">
       <dc:format>image/svg+xml</dc:format>
+
       <dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+
     </cc:Work>
+
   </rdf:RDF>
+
 </metadata>
+
 <defs
    id="defs3981" />
+
 <sodipodi:namedview
-   inkscape:current-layer="Layer_1"
-   inkscape:window-maximized="0"
-   inkscape:window-y="23"
-   inkscape:window-x="0"
-   inkscape:cy="502.74782"
-   inkscape:cx="235.61646"
-   inkscape:zoom="0.51904449"
-   showgrid="false"
-   id="namedview3979"
-   inkscape:window-height="855"
-   inkscape:window-width="1398"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0"
-   guidetolerance="10"
-   gridtolerance="10"
-   objecttolerance="10"
-   borderopacity="1"
-   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
    bordercolor="#666666"
-   pagecolor="#ffffff" />
+   inkscape:document-rotation="0"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1398"
+   inkscape:window-height="855"
+   id="namedview3979"
+   showgrid="false"
+   inkscape:zoom="0.51904449"
+   inkscape:cx="369.51635"
+   inkscape:cy="525.86723"
+   inkscape:window-x="0"
+   inkscape:window-y="23"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+
 
 <style
-   id="style3974"
-   type="text/css">
+   type="text/css"
+   id="style3974">
 	.st0{stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 </style>
 
 
+
 <polygon
-   transform="matrix(1.1,0,0,1.1,-40,-40)"
-   style="stroke-width:30;stroke-miterlimit:10;stroke-dasharray:none"
-   points="468.5,334.9 690,334.9 510.8,465.1 579.2,675.8 400,545.6 220.8,675.8 289.2,465.1 110,334.9 331.5,334.9 400,124.2 "
+   id="Star"
    class="st1"
-   id="Star" />
+   points="468.5,334.9 690,334.9 510.8,465.1 579.2,675.8 400,545.6 220.8,675.8 289.2,465.1 110,334.9 331.5,334.9 400,124.2 "
+   style="stroke-width:27.27272727;stroke-miterlimit:10;stroke-dasharray:none"
+   transform="matrix(1.1,0,0,1.1,-40,-40)" />
+
 
 </svg>
