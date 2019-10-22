@@ -95,11 +95,12 @@ You may also hear this referred to as sidestep left, or sidestep right.
 Left and right are relative to your character, for example:
 if you're facing right, sidestep left would be into the background.
 
-{% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
-description="Back dashing is dangerous against powerful lows such as the
-Hellsweep; however, it is vulnerable to sidewalk left" %}
-
 ### Caveats
+
+{% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
+description="Back dashing is dangerous against lows such as the Hellsweep;
+however, it is vulnerable to sidewalk left" %}
+
 Unlike back dashing, you are unable to block during a sidestep.
 This vulnerability is an apparent distinction to make. Sidestepping carries
 far more risk than back dashing but has a higher chance to cause an attack
@@ -123,11 +124,12 @@ side that a majority of their key attacks track poorly to. You can make
 a majority of your opponent's offensive options whiff by stepping to their weak
 side.
 
+### Mindgames
+
 {% include video.html url="KindlyBestGourami" class="float-right float-figure"
 description="Stepping into an attack will cause you to get hit, whereas stepping with
 the attack will make it whiff" %}
 
-### Mindgames
 Stepping to your opponent's weak side forces them to use homing attacks, which track
 extremely well to both directions.
 As you can probably guess, homing attacks also have a caveat. If they're fast,
@@ -158,10 +160,11 @@ Sidestep
 <img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
 into a sidewalk. The sidewalk can occur at any time during a sidestep.
 
+## Duck
+
 {% include video.html url="ZestyGrotesqueHectorsdolphin" class="float-right float-figure"
 description="You cannot be hit by high attacks while ducking" %}
 
-## Duck
 To duck, hold <img class="icon" src="/assets/img/dbh.svg">. While you're
 ducking, high attacks can't hit you. This property is called "high crushing".
 You will also block lows, but can't block mids.
