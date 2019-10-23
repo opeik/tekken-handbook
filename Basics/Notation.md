@@ -161,10 +161,10 @@ performing a specific action. For example, by holding
 you'll enter the "Full Crouch" stance. From this stance, pressing an attack button
 will result in a Full Crouch attack.
 
-* While Standing: "WS"
-* While Running: "WR"
-* Crouch Dash: "CD"
 * Full Crouch: "FC"
+* While Running: "WR"
+* While Standing (Up): "WS"
+* Crouch Dash: "CD"
 * Side Step: "SS"
 
 Stances will be explained in detail later, so don't worry for now.
