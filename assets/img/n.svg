@@ -49,9 +49,9 @@
    inkscape:window-maximized="0"
    inkscape:window-y="23"
    inkscape:window-x="0"
-   inkscape:cy="560"
-   inkscape:cx="400"
-   inkscape:zoom="0.35"
+   inkscape:cy="514.02892"
+   inkscape:cx="375.78417"
+   inkscape:zoom="0.38640211"
    showgrid="false"
    id="namedview3979"
    inkscape:window-height="855"
@@ -80,7 +80,7 @@
 
 <polygon
    transform="matrix(1.32,0,0,1.32,-28,-23.944)"
-   style="stroke-width:27.2727;stroke-miterlimit:10;stroke-dasharray:none"
+   style="stroke-width:22.72727273;stroke-miterlimit:10;stroke-dasharray:none"
    points="400,545.6 220.8,675.8 289.2,465.1 110,334.9 331.5,334.9 400,124.2 468.5,334.9 690,334.9 510.8,465.1 579.2,675.8 "
    class="st1"
    id="Star" />
