@@ -19,14 +19,15 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 {:toc}
 
 ## Directions
-There are eight direction inputs. They are forward (<img class="icon" src="/assets/img/f.svg">),
-backward (<img class="icon" src="/assets/img/b.svg">),
-up (<img class="icon" src="/assets/img/u.svg">) and
-down (<img class="icon" src="/assets/img/d.svg">).
+There are eight direction inputs.
+They are forward <span class="no-break">(<img class="icon" src="/assets/img/f.svg">)</span>,
+backward <span class="no-break">(<img class="icon" src="/assets/img/b.svg">)</span>,
+up <span class="no-break">(<img class="icon" src="/assets/img/u.svg">)</span> and
+down <span class="no-break">(<img class="icon" src="/assets/img/d.svg">)</span>.
 Forward and backward are relative to the direction you're facing.
 For example: if you're facing right, forward is right and back is left. If
 you're not inputting any direction, the game considers this to be neutral
-(<img class="icon" src="/assets/img/n.svg">).
+<span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
 
 ### Press
 <div class="compact-table notation-table">
@@ -94,10 +95,11 @@ you're not inputting any direction, the game considers this to be neutral
 Tekken uses four attack buttons, compared to other games such as Street Fighter,
 which use six. These buttons are mapped to limbs, instead of being punches and
 kicks with different strengths.
-They are: left punch (<img class="icon" src="/assets/img/1.svg">),
-right punch (<img class="icon" src="/assets/img/2.svg">),
-left kick (<img class="icon" src="/assets/img/3.svg">),
-and right kick (<img class="icon" src="/assets/img/4.svg">).
+They are:
+left punch <span class="no-break">(<img class="icon" src="/assets/img/1.svg">)</span>,
+right punch <span class="no-break">(<img class="icon" src="/assets/img/2.svg">)</span>,
+left kick <span class="no-break">(<img class="icon" src="/assets/img/3.svg">)</span>,
+and right kick <span class="no-break">(<img class="icon" src="/assets/img/4.svg">)</span>.
 
 <div class="compact-table notation-table">
   <table>
@@ -122,8 +124,10 @@ and right kick (<img class="icon" src="/assets/img/4.svg">).
 ## Modifiers
 ### Sequence
 In-game,
-<img class="icon" src="/assets/img/2.svg">
-<img class="icon" src="/assets/img/4.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/2.svg">
+    <img class="icon" src="/assets/img/4.svg">
+</span>
 denotes pressing 2 then 4, this attack sequence is called a string. Each
 character has unique attacks and strings they can perform.
 In text, commas are used to indicate a sequence.
@@ -147,10 +151,12 @@ The text version of this input is "1+3".
 ### Slide
 A handful of attacks in Tekken require you to input several attack or direction
 buttons in rapid succession. This input is called a "slide". In-game,
-<img class="icon" src="/assets/img/bracketL.svg">
-<img class="icon" src="/assets/img/2.svg">
-<img class="icon" src="/assets/img/1.svg">
-<img class="icon" src="/assets/img/bracketR.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/bracketL.svg">
+    <img class="icon" src="/assets/img/2.svg">
+    <img class="icon" src="/assets/img/1.svg">
+    <img class="icon" src="/assets/img/bracketR.svg">
+</span>
 denotes pressing 2, then 1 very shortly after. In text, a tilde is used to
 indicate a slide. The text version of this input is "2~1".
 
@@ -161,11 +167,16 @@ performing a specific action. For example, by holding
 you'll enter the "Full Crouch" stance. From this stance, pressing an attack button
 will result in a Full Crouch attack.
 
-* Full Crouch: "FC"
-* While Running: "WR"
-* While Standing (Up): "WS"
-* Crouch Dash: "CD"
-* Side Step: "SS"
+The most common stances you'll encounter are:
+
+<table>
+  <tr> <th>Name</th> <th>Abbreviation</th> </tr>
+  <tr> <td>Full Crouch</td> <td>FC</td> </tr>
+  <tr> <td>While Running</td> <td>WR</td> </tr>
+  <tr> <td>While Standing (Up)</td> <td>WS</td> </tr>
+  <tr> <td>Crouch Dash</td> <td>CD</td> </tr>
+  <tr> <td>Side Step</td> <td>SS</td> </tr>
+</table>
 
 Stances will be explained in detail later, so don't worry for now.
 
