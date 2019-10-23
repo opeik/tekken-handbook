@@ -95,16 +95,14 @@ You may also hear this referred to as sidestep left, or sidestep right.
 Left and right are relative to your character, for example:
 if you're facing right, sidestep left would be into the background.
 
-### Caveats
-
 {% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
 description="Back dashing is dangerous against lows such as the Hellsweep;
 however, it is vulnerable to sidewalk left" %}
-
-Unlike back dashing, you are unable to block during a sidestep.
+### Caveats
+Unlike back dashing, can't block during a sidestep.
 This vulnerability is an apparent distinction to make. Sidestepping carries
 far more risk than back dashing but has a higher chance to cause an attack
-to whiff since you're moving laterally. Despite not being able to block,
+to whiff. Despite not being able to block,
 you're not as vulnerable as it appears. A surprising amount of attacks have
 little tracking. A short sidestep cancelled into blocking allows you to
 make attacks whiff while being relatively low risk.
