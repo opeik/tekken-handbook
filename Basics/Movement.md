@@ -42,8 +42,11 @@ called a "whiff punish".
 
 ### Input
 Back dashing allows you to create space between you and your opponent very
-quickly. To back dash, input <img class="icon" src="/assets/img/b.svg">
-<img class="icon" src="/assets/img/bh.svg">.
+quickly. To back dash, input
+<span class="no-break">
+    <img class="icon" src="/assets/img/b.svg">
+    <img class="icon" src="/assets/img/bh.svg">
+</span>.
 By holding the <img class="icon" src="/assets/img/bh.svg">, you will block while back dashing.
 Since back dashing allows you to make your opponent's attacks whiff, and you're
 blocking at the same time, it negates several of your opponent's offensive
@@ -58,16 +61,18 @@ Because of this property, you can back dash, duck, then back dash
 again.
 
 To Korean Back Dash, input:
-<img class="icon" src="/assets/img/b.svg">
-<img class="icon" src="/assets/img/bh.svg">
-<img class="icon" src="/assets/img/db.svg">
-<img class="icon" src="/assets/img/n.svg">
-<img class="icon" src="/assets/img/then.svg">
-<img class="icon" src="/assets/img/b.svg">
-<img class="icon" src="/assets/img/bh.svg">
-<img class="icon" src="/assets/img/db.svg">
-<img class="icon" src="/assets/img/n.svg">
-<img class="icon" src="/assets/img/then.svg"> and so on. Korean Back Dashing is
+<span class="no-break">
+    <img class="icon" src="/assets/img/b.svg">
+    <img class="icon" src="/assets/img/bh.svg">
+    <img class="icon" src="/assets/img/db.svg">
+    <img class="icon" src="/assets/img/n.svg">
+    <img class="icon" src="/assets/img/then.svg">
+    <img class="icon" src="/assets/img/b.svg">
+    <img class="icon" src="/assets/img/bh.svg">
+    <img class="icon" src="/assets/img/db.svg">
+    <img class="icon" src="/assets/img/n.svg">
+    <img class="icon" src="/assets/img/then.svg">
+</span> and so on. Korean Back Dashing is
 an essential technique since it allows you to create far
 more space than a single back dash. A good target is three back dashes in a row,
 so get practising.
@@ -146,11 +151,15 @@ moving to prevent your attacks from whiffing.
 Certain attacks, while steppable, require you to sidewalk instead of sidestep to
 make them whiff. Sidewalking moves you further laterally than sidestepping.
 To sidewalk, input
-<img class="icon" src="/assets/img/u.svg">
-<img class="icon" src="/assets/img/uh.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/u.svg">
+    <img class="icon" src="/assets/img/uh.svg">
+</span>
 or
-<img class="icon" src="/assets/img/d.svg">
-<img class="icon" src="/assets/img/dh.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/d.svg">
+    <img class="icon" src="/assets/img/dh.svg">
+</span>
 to move into the background and foreground, respectively. You will continue to
 sidewalk as long as you hold the button. You can also think of the input as
 Sidestep
@@ -174,8 +183,10 @@ in a string.
 
 ## Forward Dash
 To forward dash, input
-<img class="icon" src="/assets/img/f.svg">
-<img class="icon" src="/assets/img/f.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/f.svg">
+    <img class="icon" src="/assets/img/f.svg">
+</span>
 . Forward dashing lets you quickly close in space between you and your opponent.
 Whenever you forward dash, you realign with your opponent. When you realign,
 your character will immediately turn to face the opponent. Realigning can be
@@ -183,10 +194,12 @@ helpful if your opponent is aggressively sidestepping. You cannot block while fo
 
 ## Crouch Dash
 To crouch dash, input
-<img class="icon" src="/assets/img/f.svg">
-<img class="icon" src="/assets/img/n.svg">
-<img class="icon" src="/assets/img/d.svg">
-<img class="icon" src="/assets/img/df.svg">.
+<span class="no-break">
+    <img class="icon" src="/assets/img/f.svg">
+    <img class="icon" src="/assets/img/n.svg">
+    <img class="icon" src="/assets/img/d.svg">
+    <img class="icon" src="/assets/img/df.svg">
+</span>.
 Similarly to forward dashing, crouch dashing lets you quickly approach your opponent,
 and will realign. Unlike forward dashing, you can perform character-specific crouch dash attacks
 by pressing a button while crouch dashing. Mishima's, for example, have access
@@ -195,8 +208,10 @@ You cannot block while crouch dashing.
 
 ## Run
 To run, input
-<img class="icon" src="/assets/img/f.svg">
-<img class="icon" src="/assets/img/fh.svg">
+<span class="no-break">
+    <img class="icon" src="/assets/img/f.svg">
+    <img class="icon" src="/assets/img/fh.svg">
+</span>
 . Running lets you close space faster than forward dashing. You cannot block
 while running. There is a distance requirement to run, unlike forward dashing, so you cannot
 run while right next to your opponent. There are attacks which you can do from
