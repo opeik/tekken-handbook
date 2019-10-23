@@ -20,14 +20,17 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 
 ## Directions
 There are eight direction inputs.
-They are forward <span class="no-break">(<img class="icon" src="/assets/img/f.svg">)</span>,
+They are: forward <span class="no-break">(<img class="icon" src="/assets/img/f.svg">)</span>,
 backward <span class="no-break">(<img class="icon" src="/assets/img/b.svg">)</span>,
-up <span class="no-break">(<img class="icon" src="/assets/img/u.svg">)</span> and
+up <span class="no-break">(<img class="icon" src="/assets/img/u.svg">)</span>,
 down <span class="no-break">(<img class="icon" src="/assets/img/d.svg">)</span>,
-as well as diagonals.
+as well as up-forward <span class="no-break">(<img class="icon" src="/assets/img/uf.svg">)</span>,
+down-forward <span class="no-break">(<img class="icon" src="/assets/img/df.svg">)</span>,
+down-back, <span class="no-break">(<img class="icon" src="/assets/img/db.svg">)</span>,
+and up-back <span class="no-break">(<img class="icon" src="/assets/img/ub.svg">)</span>.
 Forward and backward are relative to the direction you're facing.
 For example: if you're facing right, forward is right and back is left. If
-you're not inputting any direction, the game considers you to be in neutral
+you're not inputting any direction the game considers you to be in neutral
 <span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
 
 ### Press
@@ -94,7 +97,7 @@ you're not inputting any direction, the game considers you to be in neutral
 
 ## Buttons
 Tekken uses four attack buttons, compared to other games such as Street Fighter,
-which use six. These buttons are mapped to limbs, instead of being punches and
+which uses six. These buttons are mapped to limbs, instead of being punches and
 kicks with different strengths.
 They are:
 left punch <span class="no-break">(<img class="icon" src="/assets/img/1.svg">)</span>,
