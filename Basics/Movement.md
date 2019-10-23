@@ -165,7 +165,7 @@ sidewalk as long as you hold the button. You can also think of the input as
 Sidestep
 <img class="icon" src="/assets/img/uh.svg"> or
 <img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
-into a sidewalk. The sidewalk can occur at any time during a sidestep.
+into a sidewalk. A sidewalk can occur at any time during a sidestep.
 
 ## Duck
 
@@ -216,6 +216,14 @@ To run, input
 while running. There is a distance requirement to run, unlike forward dashing, so you cannot
 run while right next to your opponent. There are attacks which you can do from
 running which will be covered later.
+
+## Walk
+By holding
+<img class="icon" src="/assets/img/fh.svg"> or
+<img class="icon" src="/assets/img/bh.svg">, you'll slowly walk towards or away
+from your opponent. Since walking is so slow, you aren't advised to do it.
+Back dash or forward dash instead. Walking backwards walking *can* be useful if you have
+nerves in a scramble situation and you're struggling to back dash.
 
 ## Jump
 Unless you're playing Akuma, Geese or Eliza, don't jump. Since Tekken 3, the
