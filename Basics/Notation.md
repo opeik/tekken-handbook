@@ -96,14 +96,17 @@ you're not inputting any direction the game considers you to be in neutral
 </div>
 
 ## Buttons
-Tekken uses four attack buttons, compared to other games such as Street Fighter,
-which uses six. These buttons are mapped to limbs, instead of being punches and
-kicks with different strengths.
+Compared to other fighting games such as Street Fighter, which uses six attack
+buttons, Tekken uses four. These buttons are mapped to each limb of the character
+instead of being punches and kicks with different strengths.
 They are:
 left punch <span class="no-break">(<img class="icon" src="/assets/img/1.svg">)</span>,
 right punch <span class="no-break">(<img class="icon" src="/assets/img/2.svg">)</span>,
 left kick <span class="no-break">(<img class="icon" src="/assets/img/3.svg">)</span>,
 and right kick <span class="no-break">(<img class="icon" src="/assets/img/4.svg">)</span>.
+The attack button only specifies which limb is used, not the attack strength.
+Left punch is not always the weakest attack and right kick is not always the
+strongest attack.
 
 <div class="compact-table notation-table">
   <table>
@@ -165,19 +168,32 @@ denotes pressing 2, then 1 very shortly after. In text, a tilde is used to
 indicate a slide. The text version of this input is "2~1".
 
 ## Stances
-Tekken heavily uses stances. A stance is a state that your character enters after
-performing a specific action. For example, by holding
+A stance is a state that your character enters after
+performing a specific action, and changes the moveset and properties
+of the character while in that state. For example, by holding
 <img class="icon" src="/assets/img/dh.svg">,
-you'll enter the "Full Crouch" stance. From this stance, pressing an attack button
-will result in a Full Crouch attack.
+you'll enter the "Full Crouch" stance. While in this stance, if you press
+<img class="icon" src="/assets/img/4.svg"> you'll perform a
+<span class="no-break">
+  Full Crouch <img class="icon" src="/assets/img/4.svg">
+</span>
+instead of a
+<span class="no-break">
+  Standing
+  <img class="icon" src="/assets/img/4.svg">
+</span>.
+Likewise, you can think of a character's regular moveset as another stance,
+called "standing". Standing is the default stance you're in when your character
+is standing up normally, and not in any other stance.
 
-The most common stances you'll encounter are:
+Stances are used abundantly in Tekken, from the universal mechanics to
+character-specific mechanics. The most common stances you'll encounter are:
 
 <table>
   <tr> <th>Name</th> <th>Abbreviation</th> </tr>
-  <tr> <td>Full Crouch</td> <td>FC</td> </tr>
-  <tr> <td>While Running</td> <td>WR</td> </tr>
   <tr> <td>While Standing (Up)</td> <td>WS</td> </tr>
+  <tr> <td>While Running</td> <td>WR</td> </tr>
+  <tr> <td>Full Crouch</td> <td>FC</td> </tr>
   <tr> <td>Crouch Dash</td> <td>CD</td> </tr>
   <tr> <td>Side Step</td> <td>SS</td> </tr>
 </table>

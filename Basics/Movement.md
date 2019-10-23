@@ -10,7 +10,7 @@ nav_order: 3
 At its core, Tekken is a game about movement. Defensive movement allows you to
 make attacks miss entirely, and offensive movement can be used to force the
 opponent into a dangerous mixup situation. Incorporating movement into your
-strategies is vital.
+gameplan is vital, as all movement options have a strategic purpose.
 
 Unlike other fighting games, Tekken allows you to instantly cancel movement
 into other movement, meaning there is little commitment to moving. At any point you
@@ -25,10 +25,10 @@ can cancel a forward dash into a sidestep, or retreat by cancelling into a back 
 
 ## Back Dash
 ### Creating Space
-Like most fighting games, to win a round, you need to deplete the
+Like most fighting games, to win a round you need to deplete the
 opponent's life gauge by dealing damage. You can't just run at the opponent
-though since you're not able to guard while moving forwards. The opponent's
-long range attacks will clip you before you can close in.
+though, since you’re not able to guard while moving forwards, and the
+opponent's long range attacks will clip you before you can close in.
 
 {% include video.html url="UnhealthyChiefCobra" class="float-right float-figure"
 description="Despite Kazuya's jabs moving him forward, Korean Back Dashing causes them to whiff" %}
@@ -36,7 +36,7 @@ description="Despite Kazuya's jabs moving him forward, Korean Back Dashing cause
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
 into attacking, then step out immediately. If executed properly, the opponent's
 attack will miss, which is known as whiffing. Whiffing in Tekken is extremely
-dangerous since you cannot block until the attacks recovery animation ends.
+dangerous since you cannot block until the attack's recovery animation ends.
 Attacking your opponent after they whiff while they cannot block is
 called a "whiff punish".
 
