@@ -19,15 +19,15 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 {:toc}
 
 ## Directions
-
-Note that the directional inputs are "forwards" and "backwards", not "left" and
-"right". Forwards is the direction towards your opponent. Likewise, backwards is
-the direction away from your opponent. Up and down do not change regardless of
-which direction the opponent is.
-
-Tekken considers you to be in neutral when you're not inputting any directions.
-With a fightstick, let the lever return to the neutral position. With a
-pad or hitbox, release all the directional buttons.
+There are eight possible direction inputs.
+These are forward (<img class="icon" src="/assets/img/f.svg">),
+backward (<img class="icon" src="/assets/img/b.svg">),
+up (<img class="icon" src="/assets/img/u.svg">) and
+down (<img class="icon" src="/assets/img/d.svg">).
+Forward and backward are relative to the direction you're facing.
+For example: if you're facing right, forward is right and back is left. If
+you're not inputting any direction, the game considers this to be neutral
+(<img class="icon" src="/assets/img/n.svg">).
 
 ### Press
 <div class="compact-table notation-table">
@@ -92,6 +92,14 @@ pad or hitbox, release all the directional buttons.
 </div>
 
 ## Buttons
+Tekken uses four attack buttons, compared to other games such as Street Fighter,
+which use six. These buttons are mapped to limbs, instead of being punches and
+kicks with different strengths.
+They are: left punch (<img class="icon" src="/assets/img/1.svg">),
+right punch (<img class="icon" src="/assets/img/2.svg">),
+left kick (<img class="icon" src="/assets/img/3.svg">),
+and right kick (<img class="icon" src="/assets/img/4.svg">).
+
 <div class="compact-table notation-table">
   <table>
     <caption>In-game</caption>
@@ -114,37 +122,45 @@ pad or hitbox, release all the directional buttons.
 
 ## Modifiers
 ### Sequence
+In-game,
 <img class="icon" src="/assets/img/2.svg">
 <img class="icon" src="/assets/img/4.svg">
-denotes pressing 2 then 4. In text, commas are used to indicate a
-sequence. The text version of this input is "2,4".
+denotes pressing 2 then 4, this attack sequence is called a string. Each
+character has certain attacks and strings they can perform.
+In text, commas are used to indicate a sequence.
+The text version of this input is "2,4".
 
-A combo is a sequence of several attacks. In order to differentiate
-between where one attack ends, and another begins, we need some kind of symbol.
+A combo is a sequence of attacks or strings. In order to differentiate
+between where one string ends, and another begins, we need some kind of symbol.
 The in-game symbol is
  <img class="icon" src="/assets/img/then.svg">.
 Unfortunately there isn't an agreed upon standard for text. Personally, I use
 ">" since it resembles the in-game symbol.
 
 ### Combination
-<img class="icon" src="/assets/img/1+3.svg">
+Some attacks require you to press several buttons at the same time, either
+direction or attack buttons.
+In-game, <img class="icon" src="/assets/img/1+3.svg">
 denotes pressing 1 and 3 at the same time. In text, a plus is used
-to indicate a direction, button, or stance combination. The text version of
-this input is "1+3".
+to indicate a direction button, attack button, or stance combination.
+The text version of this input is "1+3".
 
 ### Slide
+A handful of attacks in Tekken require you to input several attack or direction
+buttons in rapid succession. This is called a "slide". In-game,
 <img class="icon" src="/assets/img/bracketL.svg">
 <img class="icon" src="/assets/img/2.svg">
 <img class="icon" src="/assets/img/1.svg">
 <img class="icon" src="/assets/img/bracketR.svg">
-denotes pressing 2, then 1 in rapid succession.
-The text version of this input is "2~1".
+denotes pressing 2, then 1 very shortly after. In text, a tilde is used to
+indicate a slide. The text version of this input is "2~1".
 
 ## Stances
 * While Standing: "WS"
 * While Running: "WR"
 * Crouch Dash: "CD"
 * Full Crouch: "FC"
+* Side Step: "SS"
 
 Stances will be explained in detail later, so don't worry for now.
 
