@@ -16,6 +16,8 @@ Unlike other fighting games, Tekken allows you to instantly cancel movement
 into other movement, meaning there is little commitment to moving. At any point you
 can cancel a forward dash into a sidestep, or retreat by cancelling into a back dash.
 
+*Click any video to open a larger version in a new tab*.
+
 {: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
@@ -35,7 +37,7 @@ description="Despite Kazuya's jabs moving him forward, Korean Back Dashing cause
 
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
 into attacking, then step out immediately. If executed properly, the opponent's
-attack will miss, which is known as whiffing. Whiffing in Tekken is extremely
+attack will miss; which is known as whiffing. Whiffing in Tekken is extremely
 dangerous since you cannot block until the attack's recovery animation ends.
 Attacking your opponent after they whiff while they cannot block is
 called a "whiff punish".
@@ -48,17 +50,16 @@ quickly. To back dash, input
   <img class="icon" src="/assets/img/bh.svg">
 </span>.
 By holding the <img class="icon" src="/assets/img/bh.svg">, you will block while back dashing.
-Since back dashing allows you to make your opponent's attacks whiff, and you're
-blocking at the same time, it negates several of your opponent's offensive
+Since back dashing allows you to make your opponent’s attacks whiff while
+you're blocking at same time, it negates several of your opponent’s offensive
 options at once.
 
 ### Korean Back Dash
 While you can cancel movement into movement, you can't cancel a back dash into
 another back dash. The technique to work around this limitation is known as
 the "Korean Back Dash" or "Back Dash Cancel".
-While you can't cancel a back dash into itself, you can duck instead.
-Because of this property, you can back dash, duck, then back dash
-again.
+You can't cancel a back dash into itself, but you can cancel a back dash into a duck.
+Because of this property, you can back dash, duck, then back dash again.
 
 To Korean Back Dash, input:
 <span class="no-break">
@@ -104,7 +105,7 @@ if you're facing right, sidestep left would be into the background.
 description="Back dashing is dangerous against lows such as the Hellsweep;
 however, it is vulnerable to sidewalk left" %}
 ### Caveats
-Unlike back dashing, can't block during a sidestep.
+Unlike back dashing, you can't block during a sidestep.
 This vulnerability is an apparent distinction to make. Sidestepping carries
 far more risk than back dashing but has a higher chance to cause an attack
 to whiff. Despite not being able to block,
