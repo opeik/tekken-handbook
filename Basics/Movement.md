@@ -49,7 +49,7 @@ quickly. To back dash, input
   <img class="icon" src="/assets/img/b.svg">
   <img class="icon" src="/assets/img/bh.svg">
 </span>.
-By holding the <img class="icon" src="/assets/img/bh.svg">, you will block while back dashing.
+By holding the <img class="icon" src="/assets/img/bh.svg"> you will block while back dashing.
 Since back dashing allows you to make your opponent’s attacks whiff while
 you're blocking at same time, it negates several of your opponent’s offensive
 options at once.
@@ -59,7 +59,7 @@ While you can cancel movement into movement, you can't cancel a back dash into
 another back dash. The technique to work around this limitation is known as
 the "Korean Back Dash" or "Back Dash Cancel".
 You can't cancel a back dash into itself, but you can cancel a back dash into a duck.
-Because of this property, you can back dash, duck, then back dash again.
+Because of this property you can back dash, duck, then back dash again.
 
 To Korean Back Dash, input:
 <span class="no-break">
@@ -87,9 +87,9 @@ stepping.
 ### Tracking
 Every attack in Tekken tracks a certain amount, from
 none to homing, which will track approximately 180° in front of you.
-The more an attack tracks, the better chance it has to hit if your opponent is side
-stepping. Typically in Tekken, if back dashing is not effective,
-sidestep instead since these attacks usually have poor tracking.
+The more an attack tracks the better chance it has to hit if your opponent is side
+stepping. Typically if back dashing against a move is not effective then
+sidestep instead, since these attacks usually have poor tracking.
 
 ### Input
 To side step, input
@@ -98,12 +98,13 @@ or
 <img class="icon" src="/assets/img/d.svg">
 to move into the background and foreground, respectively.
 You may also hear this referred to as sidestep left, or sidestep right.
-Left and right are relative to your character, for example:
+Left and right are relative to your character, for example,
 if you're facing right, sidestep left would be into the background.
 
 {% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
 description="Back dashing is dangerous against lows such as the Hellsweep;
 however, it is vulnerable to sidewalk left" %}
+
 ### Caveats
 Unlike back dashing, you can't block during a sidestep.
 This vulnerability is an apparent distinction to make. Sidestepping carries
@@ -114,19 +115,18 @@ little tracking. A short sidestep cancelled into blocking allows you to
 make attacks whiff while being relatively low risk.
 
 ### Stepping Correctly
-Generally speaking, you want to step "with" an attack; meaning you step the
-the direction the attack is going.
-For example: if the opponent's attack moves towards your right, you should sidestep right.
+Generally speaking, you want to step "with" an attack, meaning you step the
+direction the attack is going.
+For example, if the opponent's attack moves towards your right, you should sidestep right.
 There are exceptions to every rule in Tekken though: the Electric Wind God Fist,
-which is one of Kazuya's key attacks, requires you to step into the attack to make
-it whiff.
+one of Kazuya's key attacks, requires you to step into the attack to make it whiff.
 
 The direction that you're stepping matters. Stepping attacks at random will more
 than likely cause you to get hit. Attacks in Tekken typically track well in one
 direction, but poorly to the other. Furthermore, characters generally have one
 side that a majority of their key attacks track poorly to. You can make
 a majority of your opponent's offensive options whiff by stepping to their weak
-side.
+side. Against Kazuya, sidestepping left negates a vast majority of his moveset.
 
 ### Mindgames
 
@@ -140,7 +140,7 @@ As you can probably guess, homing attacks also have a caveat. If they're fast,
 they're typically high. If they're mid, they're generally slow or are punishable on block.
 High attacks can be ducked and punished. You can defeat slow, mid homing attacks by
 a short sidestep cancelled into blocking. Fast mid homing
-attacks will shut down stepping very effectively. However, they are generally
+attacks will shut down stepping very effectively; however, they are generally
 unsafe on block. You can't throw out unsafe attacks too recklessly since your
 opponent gets free damage if they block and punish.
 
@@ -163,68 +163,67 @@ or
 </span>
 to move into the background and foreground, respectively. You will continue to
 sidewalk as long as you hold the button. You can also think of the input as
-Sidestep
-<img class="icon" src="/assets/img/uh.svg"> or
-<img class="icon" src="/assets/img/dh.svg">, as in you're cancelling a sidestep
-into a sidewalk. A sidewalk can occur at any time during a sidestep.
+Sidestep <img class="icon" src="/assets/img/uh.svg"> or
+<img class="icon" src="/assets/img/dh.svg">. A sidewalk can occur at any time during a sidestep.
 
 ## Duck
 
 {% include video.html url="SilentHorribleGordonsetter" class="float-right float-figure"
 description="While ducking, you crush highs, block lows, but are vulnerable to mids" %}
 
-To duck, hold <img class="icon" src="/assets/img/dbh.svg">. While you're
-ducking, high attacks can't hit you. This property is called "high crushing".
+Ducking is a risky option for dealing with highs and lows. While ducking,
+high attacks can't hit you. This property is called "high crushing".
 You will also block lows, but can't block mids.
 Mid attacks generally deal a lot of damage
 and since you can't block mids while ducking, it's dangerous to
 randomly duck. Similarly to back dashing and sidestepping, you must duck with intent.
 Either you suspect a powerful high is coming or you know there is a high attack
-in a string.
+in a string. To duck, hold <img class="icon" src="/assets/img/dbh.svg">.
+
 
 ## Forward Dash
-To forward dash, input
-<span class="no-break">
-    <img class="icon" src="/assets/img/f.svg">
-    <img class="icon" src="/assets/img/f.svg">
-</span>
-. Forward dashing lets you quickly close in space between you and your opponent.
+Forward dashing lets you quickly close in space between you and your opponent.
 Whenever you forward dash, you realign with your opponent. When you realign,
 your character will immediately turn to face the opponent. Realigning can be
 helpful if your opponent is aggressively sidestepping. You cannot block while forward dashing.
+To forward dash, input
+<span class="no-break">
+    <img class="icon" src="/assets/img/f.svg">
+    <img class="icon" src="/assets/img/f.svg">.
+</span>
 
 ## Crouch Dash
-To crouch dash, input
-<span class="no-break">
-  <img class="icon" src="/assets/img/f.svg">
-  <img class="icon" src="/assets/img/n.svg">
-  <img class="icon" src="/assets/img/d.svg">
-  <img class="icon" src="/assets/img/df.svg">
-</span>.
 Similarly to forward dashing, crouch dashing lets you quickly approach your opponent,
 and will realign. Unlike forward dashing, you can perform character-specific crouch dash attacks
 by pressing a button while crouch dashing. Mishima's, for example, have access
 to the powerful Hellsweep and Electric Wind God Fist from a crouch dash.
 You cannot block while crouch dashing.
+To crouch dash, input
+<span class="no-break">
+  <img class="icon" src="/assets/img/f.svg">
+  <img class="icon" src="/assets/img/n.svg">
+  <img class="icon" src="/assets/img/d.svg">
+  <img class="icon" src="/assets/img/df.svg">.
+</span>
 
 ## Run
 To run, input
-<span class="no-break">
-  <img class="icon" src="/assets/img/f.svg">
-  <img class="icon" src="/assets/img/fh.svg">
-</span>
-. Running lets you close space faster than forward dashing. You cannot block
+Running lets you close space faster than forward dashing. You cannot block
 while running. There is a distance requirement to run, unlike forward dashing, so you cannot
 run while right next to your opponent. You can also perform running attacks,
-which will be covered soon.
+which will be covered soon. To run, input
+<span class="no-break">
+  <img class="icon" src="/assets/img/f.svg">
+  <img class="icon" src="/assets/img/fh.svg">.
+</span>
 
 ## Walk
 By holding
 <img class="icon" src="/assets/img/fh.svg"> or
 <img class="icon" src="/assets/img/bh.svg">, you'll slowly walk towards or away
-from your opponent. Since walking is so slow, you aren't advised to do it.
-Back dash or forward dash instead. Walking backwards walking *can* be useful if you have
-nerves in a scramble situation and you're struggling to back dash.
+from your opponent. Since walking is so slow, don't do it; back dash or forward
+dash instead. Walking backwards walking *can* be useful if you have
+nerves in a scramble situation and you're struggling to Korean Back Dash.
 
 ## Jump
 Unless you're playing Akuma, Geese or Eliza, don't jump. Since Tekken 3, the

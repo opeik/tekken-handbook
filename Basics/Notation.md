@@ -29,7 +29,7 @@ down-forward <span class="no-break">(<img class="icon" src="/assets/img/df.svg">
 down-back, <span class="no-break">(<img class="icon" src="/assets/img/db.svg">)</span>,
 and up-back <span class="no-break">(<img class="icon" src="/assets/img/ub.svg">)</span>.
 Forward and backward are relative to the direction you're facing.
-For example: if you're facing right, forward is right and back is left. If
+For example, if you're facing right, forward is right and back is left. If
 you're not inputting any direction the game considers you to be in neutral
 <span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
 
@@ -195,7 +195,7 @@ character-specific mechanics. The most common stances you'll encounter are:
   <tr> <td>While Running</td> <td>WR</td> </tr>
   <tr> <td>Full Crouch</td> <td>FC</td> </tr>
   <tr> <td>Crouch Dash</td> <td>CD</td> </tr>
-  <tr> <td>Side Step</td> <td>SS</td> </tr>
+  <tr> <td>Sidestep</td> <td>SS</td> </tr>
 </table>
 
 Stances will be explained in detail later, so don't worry for now.
