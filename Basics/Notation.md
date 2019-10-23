@@ -125,8 +125,8 @@ and right kick <span class="no-break">(<img class="icon" src="/assets/img/4.svg"
 ### Sequence
 In-game,
 <span class="no-break">
-    <img class="icon" src="/assets/img/2.svg">
-    <img class="icon" src="/assets/img/4.svg">
+  <img class="icon" src="/assets/img/2.svg">
+  <img class="icon" src="/assets/img/4.svg">
 </span>
 denotes pressing 2 then 4, this attack sequence is called a string. Each
 character has unique attacks and strings they can perform.
@@ -152,16 +152,16 @@ The text version of this input is "1+3".
 A handful of attacks in Tekken require you to input several attack or direction
 buttons in rapid succession. This input is called a "slide". In-game,
 <span class="no-break">
-    <img class="icon" src="/assets/img/bracketL.svg">
-    <img class="icon" src="/assets/img/2.svg">
-    <img class="icon" src="/assets/img/1.svg">
-    <img class="icon" src="/assets/img/bracketR.svg">
+  <img class="icon" src="/assets/img/bracketL.svg">
+  <img class="icon" src="/assets/img/2.svg">
+  <img class="icon" src="/assets/img/1.svg">
+  <img class="icon" src="/assets/img/bracketR.svg">
 </span>
 denotes pressing 2, then 1 very shortly after. In text, a tilde is used to
 indicate a slide. The text version of this input is "2~1".
 
 ## Stances
-Tekken heavy uses stances. A stance is a state that your character enters after
+Tekken heavily uses stances. A stance is a state that your character enters after
 performing a specific action. For example, by holding
 <img class="icon" src="/assets/img/dh.svg">,
 you'll enter the "Full Crouch" stance. From this stance, pressing an attack button

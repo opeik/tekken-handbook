@@ -36,7 +36,7 @@ description="Despite Kazuya's jabs moving him forward, Korean Back Dashing cause
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
 into attacking, then step out immediately. If executed properly, the opponent's
 attack will miss, which is known as whiffing. Whiffing in Tekken is extremely
-dangerous since you cannot block until the recovery animation ends.
+dangerous since you cannot block until the attacks recovery animation ends.
 Attacking your opponent after they whiff while they cannot block is
 called a "whiff punish".
 
@@ -44,8 +44,8 @@ called a "whiff punish".
 Back dashing allows you to create space between you and your opponent very
 quickly. To back dash, input
 <span class="no-break">
-    <img class="icon" src="/assets/img/b.svg">
-    <img class="icon" src="/assets/img/bh.svg">
+  <img class="icon" src="/assets/img/b.svg">
+  <img class="icon" src="/assets/img/bh.svg">
 </span>.
 By holding the <img class="icon" src="/assets/img/bh.svg">, you will block while back dashing.
 Since back dashing allows you to make your opponent's attacks whiff, and you're
@@ -62,16 +62,16 @@ again.
 
 To Korean Back Dash, input:
 <span class="no-break">
-    <img class="icon" src="/assets/img/b.svg">
-    <img class="icon" src="/assets/img/bh.svg">
-    <img class="icon" src="/assets/img/db.svg">
-    <img class="icon" src="/assets/img/n.svg">
-    <img class="icon" src="/assets/img/then.svg">
-    <img class="icon" src="/assets/img/b.svg">
-    <img class="icon" src="/assets/img/bh.svg">
-    <img class="icon" src="/assets/img/db.svg">
-    <img class="icon" src="/assets/img/n.svg">
-    <img class="icon" src="/assets/img/then.svg">
+  <img class="icon" src="/assets/img/b.svg">
+  <img class="icon" src="/assets/img/bh.svg">
+  <img class="icon" src="/assets/img/db.svg">
+  <img class="icon" src="/assets/img/n.svg">
+  <img class="icon" src="/assets/img/then.svg">
+  <img class="icon" src="/assets/img/b.svg">
+  <img class="icon" src="/assets/img/bh.svg">
+  <img class="icon" src="/assets/img/db.svg">
+  <img class="icon" src="/assets/img/n.svg">
+  <img class="icon" src="/assets/img/then.svg">
 </span> and so on. Korean Back Dashing is
 an essential technique since it allows you to create far
 more space than a single back dash. A good target is three back dashes in a row,
@@ -152,13 +152,13 @@ Certain attacks, while steppable, require you to sidewalk instead of sidestep to
 make them whiff. Sidewalking moves you further laterally than sidestepping.
 To sidewalk, input
 <span class="no-break">
-    <img class="icon" src="/assets/img/u.svg">
-    <img class="icon" src="/assets/img/uh.svg">
+  <img class="icon" src="/assets/img/u.svg">
+  <img class="icon" src="/assets/img/uh.svg">
 </span>
 or
 <span class="no-break">
-    <img class="icon" src="/assets/img/d.svg">
-    <img class="icon" src="/assets/img/dh.svg">
+  <img class="icon" src="/assets/img/d.svg">
+  <img class="icon" src="/assets/img/dh.svg">
 </span>
 to move into the background and foreground, respectively. You will continue to
 sidewalk as long as you hold the button. You can also think of the input as
@@ -195,10 +195,10 @@ helpful if your opponent is aggressively sidestepping. You cannot block while fo
 ## Crouch Dash
 To crouch dash, input
 <span class="no-break">
-    <img class="icon" src="/assets/img/f.svg">
-    <img class="icon" src="/assets/img/n.svg">
-    <img class="icon" src="/assets/img/d.svg">
-    <img class="icon" src="/assets/img/df.svg">
+  <img class="icon" src="/assets/img/f.svg">
+  <img class="icon" src="/assets/img/n.svg">
+  <img class="icon" src="/assets/img/d.svg">
+  <img class="icon" src="/assets/img/df.svg">
 </span>.
 Similarly to forward dashing, crouch dashing lets you quickly approach your opponent,
 and will realign. Unlike forward dashing, you can perform character-specific crouch dash attacks
@@ -209,13 +209,13 @@ You cannot block while crouch dashing.
 ## Run
 To run, input
 <span class="no-break">
-    <img class="icon" src="/assets/img/f.svg">
-    <img class="icon" src="/assets/img/fh.svg">
+  <img class="icon" src="/assets/img/f.svg">
+  <img class="icon" src="/assets/img/fh.svg">
 </span>
 . Running lets you close space faster than forward dashing. You cannot block
 while running. There is a distance requirement to run, unlike forward dashing, so you cannot
-run while right next to your opponent. There are attacks which you can do from
-running which will be covered later.
+run while right next to your opponent. You can also perform running attacks,
+which will be covered soon.
 
 ## Walk
 By holding
