@@ -156,6 +156,12 @@ denotes pressing 2, then 1 very shortly after. In text, a tilde is used to
 indicate a slide. The text version of this input is "2~1".
 
 ## Stances
+Tekken heavy uses stances. A stance is a state that your character enters after
+performing a specific action. For example, by holding
+<img class="icon" src="/assets/img/dh.svg">,
+you'll enter the "Full Crouch" stance. From this stance, pressing an attack button
+will result in a Full Crouch attack.
+
 * While Standing: "WS"
 * While Running: "WR"
 * Crouch Dash: "CD"
