@@ -17,7 +17,7 @@ nav_order: 6
 * Available on [GitHub](https://github.com/opeik/tekken-handbook)
 
 ## Other Resources
-* Check out my [YouTube channel](https://www.youtube.com/c/opeik)
+* [My YouTube channel](https://www.youtube.com/c/opeik)
 * [Avoiding The Puddle](https://www.youtube.com/playlist?list=PLMCyLSAjLlQ0YEDmZ-Esbnzd4gcstVOC5)
 * [That Blasted Salami](https://www.youtube.com/channel/UC5GTc4yWm-yiBFTuV3MsGaQ)
 * [Core-A-Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg)
