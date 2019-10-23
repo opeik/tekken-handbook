@@ -31,3 +31,14 @@ you have a good reason not to duck continuously.
 </table>
 
 ## Blocking
+If you're in neutral
+<span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>, you
+will passively block high and mid attacks. This is a legacy Tekken mechanic, and
+I wouldn't recommend you rely on this since there are certain strings which will
+break neutral guard. An example of this is Heihachi's
+<span class="no-break">
+  <img class="icon" src="/assets/img/uf.svg">
+  <img class="icon" src="/assets/img/3+4.svg">
+</span>. To stop this guard break nonsense from occurring in the first place,
+active guard instead by holding
+<img class="icon" src="/assets/img/bh.svg">.

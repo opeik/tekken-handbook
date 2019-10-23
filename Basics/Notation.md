@@ -23,10 +23,11 @@ There are eight direction inputs.
 They are forward <span class="no-break">(<img class="icon" src="/assets/img/f.svg">)</span>,
 backward <span class="no-break">(<img class="icon" src="/assets/img/b.svg">)</span>,
 up <span class="no-break">(<img class="icon" src="/assets/img/u.svg">)</span> and
-down <span class="no-break">(<img class="icon" src="/assets/img/d.svg">)</span>.
+down <span class="no-break">(<img class="icon" src="/assets/img/d.svg">)</span>,
+as well as diagonals.
 Forward and backward are relative to the direction you're facing.
 For example: if you're facing right, forward is right and back is left. If
-you're not inputting any direction, the game considers this to be neutral
+you're not inputting any direction, the game considers you to be in neutral
 <span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
 
 ### Press
