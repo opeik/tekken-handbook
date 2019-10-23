@@ -19,8 +19,7 @@ this notation. For your convenience, inputs in this handbook will use the in-gam
 {:toc}
 
 ## Directions
-There are eight possible direction inputs.
-These are forward (<img class="icon" src="/assets/img/f.svg">),
+There are eight direction inputs. They are forward (<img class="icon" src="/assets/img/f.svg">),
 backward (<img class="icon" src="/assets/img/b.svg">),
 up (<img class="icon" src="/assets/img/u.svg">) and
 down (<img class="icon" src="/assets/img/d.svg">).
