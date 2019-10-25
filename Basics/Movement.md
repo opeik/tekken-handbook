@@ -32,7 +32,8 @@ opponent's life gauge by dealing damage. You can't just run at the opponent
 though, since you’re not able to guard while moving forwards, and the
 opponent's long range attacks will clip you before you can close in.
 
-{% include video.html url="UnhealthyChiefCobra" class="float-right float-figure"
+{% include video.html url-small="ShamefulNaiveDegu" url-large="UnhealthyChiefCobra"
+class="float-right float-figure"
 description="Despite Kazuya's jabs moving him forward, Korean Back Dashing causes them to whiff" %}
 
 So how can we damage the opponent? One method is to enter your opponent's attack range to bait them
@@ -58,8 +59,8 @@ options at once.
 While you can cancel movement into movement, you can't cancel a back dash into
 another back dash. The technique to work around this limitation is known as
 the "Korean Back Dash" or "Back Dash Cancel".
-You can't cancel a back dash into itself, but you can cancel a back dash into a duck.
-Because of this property you can back dash, duck, then back dash again.
+You can't cancel a back dash into itself, but you can cancel a back dash into a crouch.
+Because of this property you can back dash, crouch, then back dash again.
 
 To Korean Back Dash, input:
 <span class="no-break">
@@ -101,7 +102,8 @@ You may also hear this referred to as sidestep left, or sidestep right.
 Left and right are relative to your character, for example,
 if you're facing right, sidestep left would be into the background.
 
-{% include video.html url="SpottedQuarterlyColt" class="float-left float-figure"
+{% include video.html url-small="HollowReasonableKitty" url-large="SpottedQuarterlyColt"
+class="float-left float-figure"
 description="Back dashing is dangerous against lows such as the Hellsweep;
 however, it is vulnerable to sidewalk left" %}
 
@@ -130,7 +132,8 @@ side. Against Kazuya, sidestepping left negates a vast majority of his moveset.
 
 ### Mindgames
 
-{% include video.html url="KindlyBestGourami" class="float-right float-figure"
+{% include video.html url-small="DentalGlitteringHypsilophodon" url-large="KindlyBestGourami"
+class="float-right float-figure"
 description="Stepping into an attack will cause you to get hit, whereas stepping with
 the attack will make it whiff" %}
 
@@ -138,7 +141,7 @@ Stepping to your opponent's weak side forces them to use homing attacks, which t
 extremely well to both directions.
 As you can probably guess, homing attacks also have a caveat. If they're fast,
 they're typically high. If they're mid, they're generally slow or are punishable on block.
-High attacks can be ducked and punished. You can defeat slow, mid homing attacks by
+High attacks can be crouched and punished. You can defeat slow, mid homing attacks by
 a short sidestep cancelled into blocking. Fast mid homing
 attacks will shut down stepping very effectively; however, they are generally
 unsafe on block. You can't throw out unsafe attacks too recklessly since your
@@ -166,20 +169,23 @@ sidewalk as long as you hold the button. You can also think of the input as
 Sidestep <img class="icon" src="/assets/img/uh.svg"> or
 <img class="icon" src="/assets/img/dh.svg">. A sidewalk can occur at any time during a sidestep.
 
-## Duck
+## Crouch
 
-{% include video.html url="SilentHorribleGordonsetter" class="float-right float-figure"
-description="While ducking, you crush highs, block lows, but are vulnerable to mids" %}
+{% include video.html url-small="AdventurousCompassionateAlpaca" url-large="SilentHorribleGordonsetter"
+class="float-right float-figure"
+description="While crouching, you crush highs, block lows, but are vulnerable to mids" %}
 
-Ducking is a risky option for dealing with highs and lows. While ducking,
-high attacks can't hit you. This property is called "high crushing".
+Crouching is a risky option for dealing with highs and lows. While crouching,
+all high attacks whiff. This property is called "high crushing".
 You will also block lows, but can't block mids.
 Mid attacks generally deal a lot of damage
-and since you can't block mids while ducking, it's dangerous to
-randomly duck. Similarly to back dashing and sidestepping, you must duck with intent.
-Either you suspect a powerful high is coming or you know there is a high attack
-in a string. To duck, hold <img class="icon" src="/assets/img/dbh.svg">.
-
+and since you can't block mids while crouching, it's dangerous to
+randomly crouch. Similarly to back dashing and sidestepping, you must crouch with intent.
+Either you suspect a powerful high is coming or you know there is a high
+in a string. To crouch, hold
+<span class="no-break">
+  <img class="icon" src="/assets/img/dbh.svg">.
+</span>
 
 ## Forward Dash
 Forward dashing lets you quickly close in space between you and your opponent.
@@ -219,9 +225,9 @@ which will be covered soon. To run, input
 
 ## Walk
 By holding
-<img class="icon" src="/assets/img/fh.svg"> or
-<img class="icon" src="/assets/img/bh.svg">, you'll slowly walk towards or away
-from your opponent. Since walking is so slow, don't do it; back dash or forward
+<img class="icon" src="/assets/img/bh.svg"> or
+<img class="icon" src="/assets/img/fh.svg"> you'll slowly walk away or towards
+from your opponent, respectively. Since walking is so slow, don't do it; back dash or forward
 dash instead. Walking backwards walking *can* be useful if you have
 nerves in a scramble situation and you're struggling to Korean Back Dash.
 

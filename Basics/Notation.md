@@ -169,7 +169,7 @@ indicate a slide. The text version of this input is "2~1".
 
 ## Stances
 A stance is a state that your character enters after
-performing a specific action, and changes the moveset and properties
+performing a specific action and changes the moveset and properties
 of the character while in that state. For example, by holding
 <img class="icon" src="/assets/img/dh.svg">,
 you'll enter the "Full Crouch" stance. While in this stance, if you press
@@ -197,8 +197,6 @@ character-specific mechanics. The most common stances you'll encounter are:
   <tr> <td>Crouch Dash</td> <td>CD</td> </tr>
   <tr> <td>Sidestep</td> <td>SS</td> </tr>
 </table>
-
-Stances will be explained in detail later, so don't worry for now.
 
 ## Examples
 <table>
