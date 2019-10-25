@@ -67,7 +67,7 @@ guarding won't block any attacks whereas active guarding will. Holding
 <img class="icon" src="/assets/img/bh.svg"> should be your default option when
 you want to block attacks.
 
-### Crouch Guarding
+### Crouch Guard
 Lows are a great way to sneak in damage since a majority of them are
 close to the threshold of human reaction time, and they ignore standing guard.
 To block lows,
