@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc }
 # Attacking & Defending
 
-{% include video.html url-small="AthleticFantasticIvorygull" url-large="AthleticFantasticIvorygull"
+{% include video.html url-small="AthleticFantasticIvorygull" url-large="EnchantingMajorFowl"
 class="float-right float-figure"
 description="All the attack types in Tekken; special mids have a green hit
 effect instead of yellow like regular mids" %}
@@ -38,12 +38,12 @@ duck since mids are typically quite powerful.
 
 ## Blocking
 
-{% include video.html url-small="GratefulElaborateJapanesebeetle" url-large="GratefulElaborateJapanesebeetle"
+{% include video.html url-small="GratefulElaborateJapanesebeetle" url-large="GrimCornyGerenuk"
 class="float-left float-figure"
 description="Neutral guard can be broken by specific strings" %}
 
 ### Neutral Guard
-If you're not inputting any directions, the game considered you to be in neutral
+If you're not inputting any directions, the game considers you to be in neutral
 <span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
 While in neutral, you passively block high and mid attacks. Neutral guard is a legacy Tekken
 mechanic and it's dangerous to rely on it since certain strings
@@ -67,9 +67,9 @@ won't block any attacks whereas active guarding will.
 Lows are a great way to sneak in damage since a majority of them are
 close to the threshold of human reaction time, and they ignore standing guard.
 Some lows, such as the Hellsweep, are considered "unseeable", meaning they hit
-you so quickly that you cannot react in time to block. To block lows, hold
+you so quickly that you can't react in time to block. To block lows,
 <span class="no-break">
-  <img class="icon" src="/assets/img/dbh.svg">.
+hold <img class="icon" src="/assets/img/dbh.svg">.
 </span>
 You can also neutral guard while
 crouching by holding

@@ -28,9 +28,9 @@ the incorrect throw break it becomes unbreakable and the damage is guaranteed.
 
 <table>
   <tr> <th>Arm Extended</th> <th>Break</th> </tr>
-  <tr> <td>Left</td> <td><img class="icon" src="/assets/img/1.svg"></td> </tr>
-  <tr> <td>Right</td> <td><img class="icon" src="/assets/img/2.svg"></td> </tr>
-  <tr> <td>Both</td> <td><img class="icon" src="/assets/img/1+2.svg"></td> </tr>
+  <tr> <td>Left arm</td> <td><img class="icon" src="/assets/img/1.svg"></td> </tr>
+  <tr> <td>Right arm</td> <td><img class="icon" src="/assets/img/2.svg"></td> </tr>
+  <tr> <td>Both arms</td> <td><img class="icon" src="/assets/img/1+2.svg"></td> </tr>
 </table>
 
 ## Throw Types
