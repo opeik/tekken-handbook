@@ -74,7 +74,7 @@ To block lows,
 <span class="no-break">
 hold <img class="icon" src="/assets/img/dbh.svg">.
 </span>
-While crouching, you cannot be hit by highs, but you can't block mids.
+While crouching, you can't be hit by highs, but you can't block mids.
 Mid attacks can be quite damaging, this makes randomly crouch guarding problematic.
 You can also neutral guard while
 crouching by holding
