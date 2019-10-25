@@ -7,10 +7,10 @@ nav_order: 5
 
 {: .no_toc }
 # Throws
-It can be challenging to break through the guard of extremely defensive players
-(also known as turtling). One method to opening up opponents
-is by using throws. Throws cannot be blocked, and most are high (except a
-handful which are mid). Because throws ignore guard, they are a reliable option
+It can be challenging to break through the guard of defensive players
+(this playstyle is known as turtling). One method to opening up opponents
+is by using throws. Throws are high (except for special throws), but cannot be
+blocked and must be broken. Because throws ignore guard, they are a reliable option
 against turtling, or to mix up your offence.
 
 {: .no_toc }
@@ -21,7 +21,7 @@ against turtling, or to mix up your offence.
 {:toc}
 
 ## Breaking Throws
-While throws cannot be blocked, you can break most of them. To break standing
+While throws cannot be blocked, you can break most of them. To break
 throws you need to press the buttons corresponding to what arms your
 opponent extends. You only have one opportunity to break a throw. If you input
 the incorrect throw break it becomes unbreakable and the damage is guaranteed.
@@ -34,6 +34,9 @@ the incorrect throw break it becomes unbreakable and the damage is guaranteed.
 </table>
 
 ## Throw Types
+### Generic Throw
+### Command Throw
+### Side Throw
 ### Crouching Throw
 ### Airborne Throw
 ### Ground Throw

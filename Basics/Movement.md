@@ -230,7 +230,7 @@ dash instead. Walking backwards walking *can* be useful if you have
 nerves in a scramble situation and you're struggling to Korean Back Dash.
 
 ## Jump
-Unless you're playing Akuma, Geese or Eliza, don't jump. Since Tekken 3, the
+Unless you're playing Akuma, Geese, or Eliza, don't jump. Since Tekken 3, the
 anti-gravity moon jump has been toned down to a stumpy hop which is more or less
 useless (outside of certain okizeme situations).
 You cannot block while jumping, and your opponent can hit you out of

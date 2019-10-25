@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Hit Ranges
+title: Hit Ranges & Blocking
 parent: Basics
 nav_order: 3
 ---
 
 {: .no_toc }
-# Hit Ranges
+# Hit Ranges & Blocking
 
 {% include video.html url-small="AthleticFantasticIvorygull" url-large="EnchantingMajorFowl"
 class="float-right float-figure"
 description="All the hit ranges in Tekken; special mids have a green hit
 effect instead of yellow like regular mids" %}
 
-Despite every character having their arsenal of unique attacks, everyone
-follows the same rules. Unlike 2D fighting games, Tekken uses four hit
+Despite every character having their arsenal of unique attacks, they all
+follow the same rules. Unlike 2D fighting games, Tekken uses four hit
 ranges: high, mid, special mid, and low. Since the air-game complexity of 2D
-fighting games has been removed, having only high and low hit ranges makes
-defending far too simple. By introducing mids, you have a good reason not to
-duck since mids are typically quite powerful.
+fighting games has been removed, having only high and low hit ranges would
+make defending far too simple. By introducing mids, you have a good reason not
+to duck since mids are typically quite powerful.
 
 *Click any video to open it in a new tab*.
 
@@ -42,11 +42,11 @@ duck since mids are typically quite powerful.
 
 {% include video.html url-small="GratefulElaborateJapanesebeetle" url-large="GrimCornyGerenuk"
 class="float-right float-figure"
-description="Neutral guard can be broken by specific strings" %}
+description="Certain strings can break neutral guard." %}
 
 ### Neutral Guard
 If you're not inputting any directions, the game considers you to be in neutral
-<span class="no-break">(<img class="icon" src="/assets/img/n.svg">)</span>.
+<span class="no-break">(<img class="icon" src="/assets/img/n.svg">).</span>
 While in neutral, you passively block high and mid attacks. Neutral guard is a legacy Tekken
 mechanic and it's dangerous to rely on it since certain strings
 break neutral guard. An example of this is Heihachi's
@@ -55,24 +55,27 @@ break neutral guard. An example of this is Heihachi's
   <img class="icon" src="/assets/img/3.svg">
   <img class="icon" src="/assets/img/4.svg">
 </span>.
-If you're neutral guarding, you'll block the first kick and be hit by the second.
+If you're neutral guarding, you'll block the first kick but be hit by the second.
 
 ### Active Guard
 To stop this neutral guard break nonsense from occurring in the first place,
 active guard instead by holding
 <img class="icon" src="/assets/img/bh.svg">.
 Active guard blocks attacks in situations where neutral guard won't,
-for example, in the While Standing stance. In While Standing, neutral guarding
-won't block any attacks whereas active guarding will.
+for example, in the While Standing stance. During While Standing, neutral
+guarding won't block any attacks whereas active guarding will. Holding
+<img class="icon" src="/assets/img/bh.svg"> should be your default option when
+you want to block attacks.
 
 ### Crouch Guarding
 Lows are a great way to sneak in damage since a majority of them are
 close to the threshold of human reaction time, and they ignore standing guard.
-Some lows, such as the Hellsweep, are considered "unseeable", meaning they hit
-you so quickly that you can't react in time to block. To block lows,
+To block lows,
 <span class="no-break">
 hold <img class="icon" src="/assets/img/dbh.svg">.
 </span>
+While crouching, you cannot be hit by highs, but you can't block mids.
+Mid attacks can be quite damaging, this makes randomly crouch guarding problematic.
 You can also neutral guard while
 crouching by holding
 <img class="icon" src="/assets/img/dh.svg">, but this suffers from the same
