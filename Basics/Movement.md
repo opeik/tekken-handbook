@@ -2,7 +2,7 @@
 layout: default
 title: Movement
 parent: Basics
-nav_order: 3
+nav_order: 4
 ---
 
 {: .no_toc }
@@ -15,8 +15,6 @@ gameplan is vital, as all movement options have a strategic purpose.
 Unlike other fighting games, Tekken allows you to instantly cancel movement
 into other movement, meaning there is little commitment to moving. At any point you
 can cancel a forward dash into a sidestep, or retreat by cancelling into a back dash.
-
-*Click any video to open a larger version in a new tab*.
 
 {: .no_toc }
 ## Table of contents
@@ -103,7 +101,7 @@ Left and right are relative to your character, for example,
 if you're facing right, sidestep left would be into the background.
 
 {% include video.html url-small="HollowReasonableKitty" url-large="SpottedQuarterlyColt"
-class="float-left float-figure"
+class="float-right float-figure"
 description="Back dashing is dangerous against lows such as the Hellsweep;
 however, it is vulnerable to sidewalk left" %}
 
