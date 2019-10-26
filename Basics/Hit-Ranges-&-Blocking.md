@@ -33,9 +33,9 @@ to duck since mids are typically quite powerful.
 <table>
   <tr> <th>Hit Range</th> <th>Properties</th> </tr>
   <tr> <td>High</td> <td>Whiffs against crouching opponents and high crushing</td> </tr>
-  <tr> <td>Mid</td> <td>Can't be blocked while crouching</td> </tr>
-  <tr> <td>Special Mid</td> <td>Whiffs against low crushing, can be blocked standing or crouching, can be low parried</td> </tr>
-  <tr> <td>Low</td> <td>Whiffs against low crushing, must be blocked crouching, can be low parried</td> </tr>
+  <tr> <td>Mid</td> <td>Must be blocked standing</td> </tr>
+  <tr> <td>Special Mid</td> <td>Can be blocked standing or crouching, whiffs against low crushing, can be low parried</td> </tr>
+  <tr> <td>Low</td> <td>Must be blocked crouching, whiffs against low crushing, can be low parried</td> </tr>
 </table>
 
 ## Blocking
