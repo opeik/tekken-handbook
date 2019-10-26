@@ -23,7 +23,7 @@ against turtling or to mix up your offence.
 
 ## Breaking Throws
 
-{% include video.html url-small="VagueAgonizingFieldmouse" url-large="DisfiguredSaltyAphid"
+{% include video.html url-small="DigitalComposedCaterpillar" url-large="HomelyOffbeatAmbushbug"
 class="float-right float-figure"
 description="To break throws, press the button corresponding to the extended arms" %}
 
