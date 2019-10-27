@@ -52,6 +52,13 @@ To perform a back throw, input
 <img class="icon" src="/assets/img/2+4.svg"> when at your opponent's back. The
 input used won't change the throw properties.
 
+### Running Tackle
+To perform a running tackle, run at the opponent for three to four steps. The
+tackle will occur automatically. After a tackle, up to four punches can be
+performed by pressing
+<img class="icon" src="/assets/img/1.svg"> or
+<img class="icon" src="/assets/img/2.svg">.
+
 ## Command Throw
 Command throws are an alternative to generic throws which are unique to each
 character. Command throws typically do more damage than generic throws and leave
@@ -108,6 +115,14 @@ instead of a generic throw.
       <img class="icon" src="/assets/img/2.svg"> for right side throws
     </td>
   </tr>
+  <tr> <td>Running tackle</td>
+    <td>
+      <img class="icon" src="/assets/img/1+2.svg">;
+      guess between
+      <img class="icon" src="/assets/img/1.svg"> and
+      <img class="icon" src="/assets/img/2.svg"> to break tackle punches
+    </td>
+  </tr>
   <tr> <td>Crouching throw</td>
     <td>
       The animation is the same, guess between
@@ -121,13 +136,6 @@ instead of a generic throw.
       The animation is the same, guess between
       <img class="icon" src="/assets/img/1.svg"> or
       <img class="icon" src="/assets/img/2.svg">
-    </td>
-  </tr>
-  <tr> <td>Running tackle</td>
-    <td>
-      <img class="icon" src="/assets/img/1+2.svg"> before it connects,
-      <img class="icon" src="/assets/img/1+2.svg"> to reverse it before hitting
-      the ground
     </td>
   </tr>
   <tr> <td>Wall throw</td> <td>Can't be broken</td> </tr>
