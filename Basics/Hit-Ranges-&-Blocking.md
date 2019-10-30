@@ -17,8 +17,8 @@ Despite every character having their arsenal of unique attacks, they all
 follow the same rules. Unlike 2D fighting games, Tekken uses four hit
 ranges: high, mid, special mid, and low. Since the air-game complexity of 2D
 fighting games has been removed, having only high and low hit ranges would
-make defending far too simple. By introducing mids, you have a good reason not
-to duck since mids are typically quite powerful.
+make defending far too simple. By introducing mids you have a good reason not
+to duck, since mids are typically quite powerful.
 
 *Click any video to open it in a new tab*.
 
