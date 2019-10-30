@@ -42,7 +42,7 @@ to duck, since mids are typically quite powerful.
 
 {% include video.html url-small="GratefulElaborateJapanesebeetle" url-large="GrimCornyGerenuk"
 class="float-right float-figure"
-description="Certain strings can break neutral guard." %}
+description="Certain strings can break neutral guard" %}
 
 ### Neutral Guard
 If you're not inputting any directions, the game considers you to be in neutral
