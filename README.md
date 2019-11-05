@@ -2,7 +2,7 @@
   <br>
   <img src="https://i.imgur.com/JnQauTs.png" alt="tekken-handbook-logo" width="800"></a>
   <br>
-    Tekken Handbook
+    Tekken Handbook — Work in Progress
   <br>
 </h1>
 
